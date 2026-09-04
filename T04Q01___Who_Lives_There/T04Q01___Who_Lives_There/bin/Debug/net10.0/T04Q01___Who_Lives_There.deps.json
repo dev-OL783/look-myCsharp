@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "T04Q01___Who_Lives_There/1.0.0": {
+        "runtime": {
+          "T04Q01___Who_Lives_There.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "T04Q01___Who_Lives_There/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

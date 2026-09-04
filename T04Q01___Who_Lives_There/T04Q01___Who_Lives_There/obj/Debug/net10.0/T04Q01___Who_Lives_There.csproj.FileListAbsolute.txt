@@ -1,0 +1,14 @@
+/home/yun/Dev/201/T04Q01___Who_Lives_There/T04Q01___Who_Lives_There/bin/Debug/net10.0/T04Q01___Who_Lives_There
+/home/yun/Dev/201/T04Q01___Who_Lives_There/T04Q01___Who_Lives_There/bin/Debug/net10.0/T04Q01___Who_Lives_There.deps.json
+/home/yun/Dev/201/T04Q01___Who_Lives_There/T04Q01___Who_Lives_There/bin/Debug/net10.0/T04Q01___Who_Lives_There.runtimeconfig.json
+/home/yun/Dev/201/T04Q01___Who_Lives_There/T04Q01___Who_Lives_There/bin/Debug/net10.0/T04Q01___Who_Lives_There.dll
+/home/yun/Dev/201/T04Q01___Who_Lives_There/T04Q01___Who_Lives_There/bin/Debug/net10.0/T04Q01___Who_Lives_There.pdb
+/home/yun/Dev/201/T04Q01___Who_Lives_There/T04Q01___Who_Lives_There/obj/Debug/net10.0/T04Q01___Who_Lives_There.GeneratedMSBuildEditorConfig.editorconfig
+/home/yun/Dev/201/T04Q01___Who_Lives_There/T04Q01___Who_Lives_There/obj/Debug/net10.0/T04Q01___Who_Lives_There.AssemblyInfoInputs.cache
+/home/yun/Dev/201/T04Q01___Who_Lives_There/T04Q01___Who_Lives_There/obj/Debug/net10.0/T04Q01___Who_Lives_There.AssemblyInfo.cs
+/home/yun/Dev/201/T04Q01___Who_Lives_There/T04Q01___Who_Lives_There/obj/Debug/net10.0/T04Q01___Who_Lives_There.csproj.CoreCompileInputs.cache
+/home/yun/Dev/201/T04Q01___Who_Lives_There/T04Q01___Who_Lives_There/obj/Debug/net10.0/T04Q01___Who_Lives_There.dll
+/home/yun/Dev/201/T04Q01___Who_Lives_There/T04Q01___Who_Lives_There/obj/Debug/net10.0/refint/T04Q01___Who_Lives_There.dll
+/home/yun/Dev/201/T04Q01___Who_Lives_There/T04Q01___Who_Lives_There/obj/Debug/net10.0/T04Q01___Who_Lives_There.pdb
+/home/yun/Dev/201/T04Q01___Who_Lives_There/T04Q01___Who_Lives_There/obj/Debug/net10.0/T04Q01___Who_Lives_There.genruntimeconfig.cache
+/home/yun/Dev/201/T04Q01___Who_Lives_There/T04Q01___Who_Lives_There/obj/Debug/net10.0/ref/T04Q01___Who_Lives_There.dll

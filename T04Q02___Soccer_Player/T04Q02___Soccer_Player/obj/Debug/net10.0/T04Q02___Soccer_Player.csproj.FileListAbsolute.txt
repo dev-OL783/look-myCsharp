@@ -1,0 +1,14 @@
+/home/yun/Dev/201/T04Q02___Soccer_Player/T04Q02___Soccer_Player/obj/Debug/net10.0/T04Q02___Soccer_Player.GeneratedMSBuildEditorConfig.editorconfig
+/home/yun/Dev/201/T04Q02___Soccer_Player/T04Q02___Soccer_Player/obj/Debug/net10.0/T04Q02___Soccer_Player.AssemblyInfoInputs.cache
+/home/yun/Dev/201/T04Q02___Soccer_Player/T04Q02___Soccer_Player/obj/Debug/net10.0/T04Q02___Soccer_Player.AssemblyInfo.cs
+/home/yun/Dev/201/T04Q02___Soccer_Player/T04Q02___Soccer_Player/obj/Debug/net10.0/T04Q02___Soccer_Player.csproj.CoreCompileInputs.cache
+/home/yun/Dev/201/T04Q02___Soccer_Player/T04Q02___Soccer_Player/bin/Debug/net10.0/T04Q02___Soccer_Player
+/home/yun/Dev/201/T04Q02___Soccer_Player/T04Q02___Soccer_Player/bin/Debug/net10.0/T04Q02___Soccer_Player.deps.json
+/home/yun/Dev/201/T04Q02___Soccer_Player/T04Q02___Soccer_Player/bin/Debug/net10.0/T04Q02___Soccer_Player.runtimeconfig.json
+/home/yun/Dev/201/T04Q02___Soccer_Player/T04Q02___Soccer_Player/bin/Debug/net10.0/T04Q02___Soccer_Player.dll
+/home/yun/Dev/201/T04Q02___Soccer_Player/T04Q02___Soccer_Player/bin/Debug/net10.0/T04Q02___Soccer_Player.pdb
+/home/yun/Dev/201/T04Q02___Soccer_Player/T04Q02___Soccer_Player/obj/Debug/net10.0/T04Q02___Soccer_Player.dll
+/home/yun/Dev/201/T04Q02___Soccer_Player/T04Q02___Soccer_Player/obj/Debug/net10.0/refint/T04Q02___Soccer_Player.dll
+/home/yun/Dev/201/T04Q02___Soccer_Player/T04Q02___Soccer_Player/obj/Debug/net10.0/T04Q02___Soccer_Player.pdb
+/home/yun/Dev/201/T04Q02___Soccer_Player/T04Q02___Soccer_Player/obj/Debug/net10.0/T04Q02___Soccer_Player.genruntimeconfig.cache
+/home/yun/Dev/201/T04Q02___Soccer_Player/T04Q02___Soccer_Player/obj/Debug/net10.0/ref/T04Q02___Soccer_Player.dll
