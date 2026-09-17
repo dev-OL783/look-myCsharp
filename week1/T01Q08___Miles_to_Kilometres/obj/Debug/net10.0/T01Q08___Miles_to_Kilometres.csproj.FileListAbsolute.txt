@@ -1,0 +1,14 @@
+/home/yun/dev/uni/201/wk1/T01Q08___Miles_to_Kilometres/obj/Debug/net10.0/T01Q08___Miles_to_Kilometres.GeneratedMSBuildEditorConfig.editorconfig
+/home/yun/dev/uni/201/wk1/T01Q08___Miles_to_Kilometres/obj/Debug/net10.0/T01Q08___Miles_to_Kilometres.AssemblyInfoInputs.cache
+/home/yun/dev/uni/201/wk1/T01Q08___Miles_to_Kilometres/obj/Debug/net10.0/T01Q08___Miles_to_Kilometres.AssemblyInfo.cs
+/home/yun/dev/uni/201/wk1/T01Q08___Miles_to_Kilometres/obj/Debug/net10.0/T01Q08___Miles_to_Kilometres.csproj.CoreCompileInputs.cache
+/home/yun/dev/uni/201/wk1/T01Q08___Miles_to_Kilometres/bin/Debug/net10.0/T01Q08___Miles_to_Kilometres
+/home/yun/dev/uni/201/wk1/T01Q08___Miles_to_Kilometres/bin/Debug/net10.0/T01Q08___Miles_to_Kilometres.deps.json
+/home/yun/dev/uni/201/wk1/T01Q08___Miles_to_Kilometres/bin/Debug/net10.0/T01Q08___Miles_to_Kilometres.runtimeconfig.json
+/home/yun/dev/uni/201/wk1/T01Q08___Miles_to_Kilometres/bin/Debug/net10.0/T01Q08___Miles_to_Kilometres.dll
+/home/yun/dev/uni/201/wk1/T01Q08___Miles_to_Kilometres/bin/Debug/net10.0/T01Q08___Miles_to_Kilometres.pdb
+/home/yun/dev/uni/201/wk1/T01Q08___Miles_to_Kilometres/obj/Debug/net10.0/T01Q08___Miles_to_Kilometres.dll
+/home/yun/dev/uni/201/wk1/T01Q08___Miles_to_Kilometres/obj/Debug/net10.0/refint/T01Q08___Miles_to_Kilometres.dll
+/home/yun/dev/uni/201/wk1/T01Q08___Miles_to_Kilometres/obj/Debug/net10.0/T01Q08___Miles_to_Kilometres.pdb
+/home/yun/dev/uni/201/wk1/T01Q08___Miles_to_Kilometres/obj/Debug/net10.0/T01Q08___Miles_to_Kilometres.genruntimeconfig.cache
+/home/yun/dev/uni/201/wk1/T01Q08___Miles_to_Kilometres/obj/Debug/net10.0/ref/T01Q08___Miles_to_Kilometres.dll
