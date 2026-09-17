@@ -1,0 +1,14 @@
+/home/yun/dev/uni/201/wk1/T01Q10___Locate_Symbol/bin/Debug/net10.0/T01Q10___Locate_Symbol
+/home/yun/dev/uni/201/wk1/T01Q10___Locate_Symbol/bin/Debug/net10.0/T01Q10___Locate_Symbol.deps.json
+/home/yun/dev/uni/201/wk1/T01Q10___Locate_Symbol/bin/Debug/net10.0/T01Q10___Locate_Symbol.runtimeconfig.json
+/home/yun/dev/uni/201/wk1/T01Q10___Locate_Symbol/bin/Debug/net10.0/T01Q10___Locate_Symbol.dll
+/home/yun/dev/uni/201/wk1/T01Q10___Locate_Symbol/bin/Debug/net10.0/T01Q10___Locate_Symbol.pdb
+/home/yun/dev/uni/201/wk1/T01Q10___Locate_Symbol/obj/Debug/net10.0/T01Q10___Locate_Symbol.GeneratedMSBuildEditorConfig.editorconfig
+/home/yun/dev/uni/201/wk1/T01Q10___Locate_Symbol/obj/Debug/net10.0/T01Q10___Locate_Symbol.AssemblyInfoInputs.cache
+/home/yun/dev/uni/201/wk1/T01Q10___Locate_Symbol/obj/Debug/net10.0/T01Q10___Locate_Symbol.AssemblyInfo.cs
+/home/yun/dev/uni/201/wk1/T01Q10___Locate_Symbol/obj/Debug/net10.0/T01Q10___Locate_Symbol.csproj.CoreCompileInputs.cache
+/home/yun/dev/uni/201/wk1/T01Q10___Locate_Symbol/obj/Debug/net10.0/T01Q10___Locate_Symbol.dll
+/home/yun/dev/uni/201/wk1/T01Q10___Locate_Symbol/obj/Debug/net10.0/refint/T01Q10___Locate_Symbol.dll
+/home/yun/dev/uni/201/wk1/T01Q10___Locate_Symbol/obj/Debug/net10.0/T01Q10___Locate_Symbol.pdb
+/home/yun/dev/uni/201/wk1/T01Q10___Locate_Symbol/obj/Debug/net10.0/T01Q10___Locate_Symbol.genruntimeconfig.cache
+/home/yun/dev/uni/201/wk1/T01Q10___Locate_Symbol/obj/Debug/net10.0/ref/T01Q10___Locate_Symbol.dll
