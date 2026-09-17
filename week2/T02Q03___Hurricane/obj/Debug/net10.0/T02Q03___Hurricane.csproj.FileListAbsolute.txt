@@ -1,0 +1,14 @@
+/home/yun/dev/uni/201/wk2/T02Q03___Hurricane/bin/Debug/net10.0/T02Q03___Hurricane
+/home/yun/dev/uni/201/wk2/T02Q03___Hurricane/bin/Debug/net10.0/T02Q03___Hurricane.deps.json
+/home/yun/dev/uni/201/wk2/T02Q03___Hurricane/bin/Debug/net10.0/T02Q03___Hurricane.runtimeconfig.json
+/home/yun/dev/uni/201/wk2/T02Q03___Hurricane/bin/Debug/net10.0/T02Q03___Hurricane.dll
+/home/yun/dev/uni/201/wk2/T02Q03___Hurricane/bin/Debug/net10.0/T02Q03___Hurricane.pdb
+/home/yun/dev/uni/201/wk2/T02Q03___Hurricane/obj/Debug/net10.0/T02Q03___Hurricane.GeneratedMSBuildEditorConfig.editorconfig
+/home/yun/dev/uni/201/wk2/T02Q03___Hurricane/obj/Debug/net10.0/T02Q03___Hurricane.AssemblyInfoInputs.cache
+/home/yun/dev/uni/201/wk2/T02Q03___Hurricane/obj/Debug/net10.0/T02Q03___Hurricane.AssemblyInfo.cs
+/home/yun/dev/uni/201/wk2/T02Q03___Hurricane/obj/Debug/net10.0/T02Q03___Hurricane.csproj.CoreCompileInputs.cache
+/home/yun/dev/uni/201/wk2/T02Q03___Hurricane/obj/Debug/net10.0/T02Q03___Hurricane.dll
+/home/yun/dev/uni/201/wk2/T02Q03___Hurricane/obj/Debug/net10.0/refint/T02Q03___Hurricane.dll
+/home/yun/dev/uni/201/wk2/T02Q03___Hurricane/obj/Debug/net10.0/T02Q03___Hurricane.pdb
+/home/yun/dev/uni/201/wk2/T02Q03___Hurricane/obj/Debug/net10.0/T02Q03___Hurricane.genruntimeconfig.cache
+/home/yun/dev/uni/201/wk2/T02Q03___Hurricane/obj/Debug/net10.0/ref/T02Q03___Hurricane.dll
