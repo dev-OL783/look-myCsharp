@@ -1,0 +1,14 @@
+/home/yun/dev/uni/201/wk2/T02Q04___Grade_Description/obj/Debug/net10.0/T02Q04___Grade_Description.GeneratedMSBuildEditorConfig.editorconfig
+/home/yun/dev/uni/201/wk2/T02Q04___Grade_Description/obj/Debug/net10.0/T02Q04___Grade_Description.AssemblyInfoInputs.cache
+/home/yun/dev/uni/201/wk2/T02Q04___Grade_Description/obj/Debug/net10.0/T02Q04___Grade_Description.AssemblyInfo.cs
+/home/yun/dev/uni/201/wk2/T02Q04___Grade_Description/obj/Debug/net10.0/T02Q04___Grade_Description.csproj.CoreCompileInputs.cache
+/home/yun/dev/uni/201/wk2/T02Q04___Grade_Description/bin/Debug/net10.0/T02Q04___Grade_Description
+/home/yun/dev/uni/201/wk2/T02Q04___Grade_Description/bin/Debug/net10.0/T02Q04___Grade_Description.deps.json
+/home/yun/dev/uni/201/wk2/T02Q04___Grade_Description/bin/Debug/net10.0/T02Q04___Grade_Description.runtimeconfig.json
+/home/yun/dev/uni/201/wk2/T02Q04___Grade_Description/bin/Debug/net10.0/T02Q04___Grade_Description.dll
+/home/yun/dev/uni/201/wk2/T02Q04___Grade_Description/bin/Debug/net10.0/T02Q04___Grade_Description.pdb
+/home/yun/dev/uni/201/wk2/T02Q04___Grade_Description/obj/Debug/net10.0/T02Q04___Grade_Description.dll
+/home/yun/dev/uni/201/wk2/T02Q04___Grade_Description/obj/Debug/net10.0/refint/T02Q04___Grade_Description.dll
+/home/yun/dev/uni/201/wk2/T02Q04___Grade_Description/obj/Debug/net10.0/T02Q04___Grade_Description.pdb
+/home/yun/dev/uni/201/wk2/T02Q04___Grade_Description/obj/Debug/net10.0/T02Q04___Grade_Description.genruntimeconfig.cache
+/home/yun/dev/uni/201/wk2/T02Q04___Grade_Description/obj/Debug/net10.0/ref/T02Q04___Grade_Description.dll
