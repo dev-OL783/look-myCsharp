@@ -1,0 +1,14 @@
+/home/yun/dev/uni/201/wk1/T01Q09___Area_of_Room/obj/Debug/net10.0/T01Q09___Area_of_Room.GeneratedMSBuildEditorConfig.editorconfig
+/home/yun/dev/uni/201/wk1/T01Q09___Area_of_Room/obj/Debug/net10.0/T01Q09___Area_of_Room.AssemblyInfoInputs.cache
+/home/yun/dev/uni/201/wk1/T01Q09___Area_of_Room/obj/Debug/net10.0/T01Q09___Area_of_Room.AssemblyInfo.cs
+/home/yun/dev/uni/201/wk1/T01Q09___Area_of_Room/obj/Debug/net10.0/T01Q09___Area_of_Room.csproj.CoreCompileInputs.cache
+/home/yun/dev/uni/201/wk1/T01Q09___Area_of_Room/bin/Debug/net10.0/T01Q09___Area_of_Room
+/home/yun/dev/uni/201/wk1/T01Q09___Area_of_Room/bin/Debug/net10.0/T01Q09___Area_of_Room.deps.json
+/home/yun/dev/uni/201/wk1/T01Q09___Area_of_Room/bin/Debug/net10.0/T01Q09___Area_of_Room.runtimeconfig.json
+/home/yun/dev/uni/201/wk1/T01Q09___Area_of_Room/bin/Debug/net10.0/T01Q09___Area_of_Room.dll
+/home/yun/dev/uni/201/wk1/T01Q09___Area_of_Room/bin/Debug/net10.0/T01Q09___Area_of_Room.pdb
+/home/yun/dev/uni/201/wk1/T01Q09___Area_of_Room/obj/Debug/net10.0/T01Q09___Area_of_Room.dll
+/home/yun/dev/uni/201/wk1/T01Q09___Area_of_Room/obj/Debug/net10.0/refint/T01Q09___Area_of_Room.dll
+/home/yun/dev/uni/201/wk1/T01Q09___Area_of_Room/obj/Debug/net10.0/T01Q09___Area_of_Room.pdb
+/home/yun/dev/uni/201/wk1/T01Q09___Area_of_Room/obj/Debug/net10.0/T01Q09___Area_of_Room.genruntimeconfig.cache
+/home/yun/dev/uni/201/wk1/T01Q09___Area_of_Room/obj/Debug/net10.0/ref/T01Q09___Area_of_Room.dll
