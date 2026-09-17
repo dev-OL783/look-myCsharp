@@ -1,0 +1,14 @@
+/home/yun/dev/uni/201/wk1/T01Q06___Echo_Name/bin/Debug/net10.0/T01Q06___Echo_Name
+/home/yun/dev/uni/201/wk1/T01Q06___Echo_Name/bin/Debug/net10.0/T01Q06___Echo_Name.deps.json
+/home/yun/dev/uni/201/wk1/T01Q06___Echo_Name/bin/Debug/net10.0/T01Q06___Echo_Name.runtimeconfig.json
+/home/yun/dev/uni/201/wk1/T01Q06___Echo_Name/bin/Debug/net10.0/T01Q06___Echo_Name.dll
+/home/yun/dev/uni/201/wk1/T01Q06___Echo_Name/bin/Debug/net10.0/T01Q06___Echo_Name.pdb
+/home/yun/dev/uni/201/wk1/T01Q06___Echo_Name/obj/Debug/net10.0/T01Q06___Echo_Name.GeneratedMSBuildEditorConfig.editorconfig
+/home/yun/dev/uni/201/wk1/T01Q06___Echo_Name/obj/Debug/net10.0/T01Q06___Echo_Name.AssemblyInfoInputs.cache
+/home/yun/dev/uni/201/wk1/T01Q06___Echo_Name/obj/Debug/net10.0/T01Q06___Echo_Name.AssemblyInfo.cs
+/home/yun/dev/uni/201/wk1/T01Q06___Echo_Name/obj/Debug/net10.0/T01Q06___Echo_Name.csproj.CoreCompileInputs.cache
+/home/yun/dev/uni/201/wk1/T01Q06___Echo_Name/obj/Debug/net10.0/T01Q06___Echo_Name.dll
+/home/yun/dev/uni/201/wk1/T01Q06___Echo_Name/obj/Debug/net10.0/refint/T01Q06___Echo_Name.dll
+/home/yun/dev/uni/201/wk1/T01Q06___Echo_Name/obj/Debug/net10.0/T01Q06___Echo_Name.pdb
+/home/yun/dev/uni/201/wk1/T01Q06___Echo_Name/obj/Debug/net10.0/T01Q06___Echo_Name.genruntimeconfig.cache
+/home/yun/dev/uni/201/wk1/T01Q06___Echo_Name/obj/Debug/net10.0/ref/T01Q06___Echo_Name.dll
