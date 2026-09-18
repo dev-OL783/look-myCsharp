@@ -1,0 +1,14 @@
+/home/yun/dev/uni/201/wk2/T02Q06___User_Sum/obj/Debug/net10.0/T02Q06___User_Sum.GeneratedMSBuildEditorConfig.editorconfig
+/home/yun/dev/uni/201/wk2/T02Q06___User_Sum/obj/Debug/net10.0/T02Q06___User_Sum.AssemblyInfoInputs.cache
+/home/yun/dev/uni/201/wk2/T02Q06___User_Sum/obj/Debug/net10.0/T02Q06___User_Sum.AssemblyInfo.cs
+/home/yun/dev/uni/201/wk2/T02Q06___User_Sum/obj/Debug/net10.0/T02Q06___User_Sum.csproj.CoreCompileInputs.cache
+/home/yun/dev/uni/201/wk2/T02Q06___User_Sum/bin/Debug/net10.0/T02Q06___User_Sum
+/home/yun/dev/uni/201/wk2/T02Q06___User_Sum/bin/Debug/net10.0/T02Q06___User_Sum.deps.json
+/home/yun/dev/uni/201/wk2/T02Q06___User_Sum/bin/Debug/net10.0/T02Q06___User_Sum.runtimeconfig.json
+/home/yun/dev/uni/201/wk2/T02Q06___User_Sum/bin/Debug/net10.0/T02Q06___User_Sum.dll
+/home/yun/dev/uni/201/wk2/T02Q06___User_Sum/bin/Debug/net10.0/T02Q06___User_Sum.pdb
+/home/yun/dev/uni/201/wk2/T02Q06___User_Sum/obj/Debug/net10.0/T02Q06___User_Sum.dll
+/home/yun/dev/uni/201/wk2/T02Q06___User_Sum/obj/Debug/net10.0/refint/T02Q06___User_Sum.dll
+/home/yun/dev/uni/201/wk2/T02Q06___User_Sum/obj/Debug/net10.0/T02Q06___User_Sum.pdb
+/home/yun/dev/uni/201/wk2/T02Q06___User_Sum/obj/Debug/net10.0/T02Q06___User_Sum.genruntimeconfig.cache
+/home/yun/dev/uni/201/wk2/T02Q06___User_Sum/obj/Debug/net10.0/ref/T02Q06___User_Sum.dll
