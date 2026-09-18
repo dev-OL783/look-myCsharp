@@ -1,0 +1,14 @@
+/home/yun/dev/uni/201/wk2/T02Q05___Month_To_Season/bin/Debug/net10.0/T02Q05___Month_To_Season
+/home/yun/dev/uni/201/wk2/T02Q05___Month_To_Season/bin/Debug/net10.0/T02Q05___Month_To_Season.deps.json
+/home/yun/dev/uni/201/wk2/T02Q05___Month_To_Season/bin/Debug/net10.0/T02Q05___Month_To_Season.runtimeconfig.json
+/home/yun/dev/uni/201/wk2/T02Q05___Month_To_Season/bin/Debug/net10.0/T02Q05___Month_To_Season.dll
+/home/yun/dev/uni/201/wk2/T02Q05___Month_To_Season/bin/Debug/net10.0/T02Q05___Month_To_Season.pdb
+/home/yun/dev/uni/201/wk2/T02Q05___Month_To_Season/obj/Debug/net10.0/T02Q05___Month_To_Season.GeneratedMSBuildEditorConfig.editorconfig
+/home/yun/dev/uni/201/wk2/T02Q05___Month_To_Season/obj/Debug/net10.0/T02Q05___Month_To_Season.AssemblyInfoInputs.cache
+/home/yun/dev/uni/201/wk2/T02Q05___Month_To_Season/obj/Debug/net10.0/T02Q05___Month_To_Season.AssemblyInfo.cs
+/home/yun/dev/uni/201/wk2/T02Q05___Month_To_Season/obj/Debug/net10.0/T02Q05___Month_To_Season.csproj.CoreCompileInputs.cache
+/home/yun/dev/uni/201/wk2/T02Q05___Month_To_Season/obj/Debug/net10.0/T02Q05___Month_To_Season.dll
+/home/yun/dev/uni/201/wk2/T02Q05___Month_To_Season/obj/Debug/net10.0/refint/T02Q05___Month_To_Season.dll
+/home/yun/dev/uni/201/wk2/T02Q05___Month_To_Season/obj/Debug/net10.0/T02Q05___Month_To_Season.pdb
+/home/yun/dev/uni/201/wk2/T02Q05___Month_To_Season/obj/Debug/net10.0/T02Q05___Month_To_Season.genruntimeconfig.cache
+/home/yun/dev/uni/201/wk2/T02Q05___Month_To_Season/obj/Debug/net10.0/ref/T02Q05___Month_To_Season.dll
