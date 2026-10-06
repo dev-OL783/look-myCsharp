@@ -1,0 +1,186 @@
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+==
+         Welcome to PodCastWorld!     
+      Podcasting all over the world.      
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+==
+
+Main Menu.
+Please make a choice from the menu below.
+1. Log in as a registered user.
+2. Register as a new user.
+3. Exit.
+Please enter a choice between 1 and 3:
+
+Registration Menu.
+Please enter your user type.
+1. A regular listener.
+2. A premium listener.
+3. A podcaster.
+Please enter a choice between 1 and 3:
+Registering as a podcaster.
+Please enter your name:
+Please enter your age between 18 and 99:
+Please enter your mobile number:
+Please enter your email:
+Please enter your password:
+Your password must:
+- be at least 8 characters long
+- contain a number
+- contain a lowercase letter
+- contain an uppercase letter
+Please enter your podcast genre:
+1. News.
+2. Politics.
+3. Sports.
+4. Entertainment.
+5. Education.
+6. Hobbies.
+Please enter a choice between 1 and 6:
+Please enter your podcast name:
+Please enter your podcast description:
+Congratulations Cody Coder. You have registered as a podcaster.
+
+Main Menu.
+Please make a choice from the menu below.
+1. Log in as a registered user.
+2. Register as a new user.
+3. Exit.
+Please enter a choice between 1 and 3:
+
+Log in Menu.
+Please enter your email:
+Please enter your password:
+Welcome back Cody Coder.
+
+Podcaster Menu.
+Please make a choice from the menu below.
+1. See my details.
+2. Change my password.
+3. Create an episode.
+4. View my episodes.
+5. View statistics about my episodes.
+6. View feedback about my episodes.
+7. Log out.
+Please enter a choice between 1 and 7:
+Please enter your episode's name:
+Please enter your podcast description:
+Please enter your episode's recorded date in dd/MM/yyyy format:
+Please enter your episode's length in minutes between 1 and 300:
+Please enter if episode is reserved for premium listeners only (true/false):
+
+Podcaster Menu.
+Please make a choice from the menu below.
+1. See my details.
+2. Change my password.
+3. Create an episode.
+4. View my episodes.
+5. View statistics about my episodes.
+6. View feedback about my episodes.
+7. Log out.
+Please enter a choice between 1 and 7:
+Please enter your episode's name:
+Please enter your podcast description:
+Please enter your episode's recorded date in dd/MM/yyyy format:
+Please enter your episode's length in minutes between 1 and 300:
+Please enter if episode is reserved for premium listeners only (true/false):
+
+Podcaster Menu.
+Please make a choice from the menu below.
+1. See my details.
+2. Change my password.
+3. Create an episode.
+4. View my episodes.
+5. View statistics about my episodes.
+6. View feedback about my episodes.
+7. Log out.
+Please enter a choice between 1 and 7:
+Please enter your episode's name:
+Please enter your podcast description:
+Please enter your episode's recorded date in dd/MM/yyyy format:
+Please enter your episode's length in minutes between 1 and 300:
+Please enter if episode is reserved for premium listeners only (true/false):
+
+Podcaster Menu.
+Please make a choice from the menu below.
+1. See my details.
+2. Change my password.
+3. Create an episode.
+4. View my episodes.
+5. View statistics about my episodes.
+6. View feedback about my episodes.
+7. Log out.
+Please enter a choice between 1 and 7:
+Please enter your episode's name:
+Please enter your podcast description:
+Please enter your episode's recorded date in dd/MM/yyyy format:
+Please enter your episode's length in minutes between 1 and 300:
+Please enter if episode is reserved for premium listeners only (true/false):
+
+Podcaster Menu.
+Please make a choice from the menu below.
+1. See my details.
+2. Change my password.
+3. Create an episode.
+4. View my episodes.
+5. View statistics about my episodes.
+6. View feedback about my episodes.
+7. Log out.
+Please enter a choice between 1 and 7:
+Please enter your episode's name:
+Please enter your podcast description:
+Please enter your episode's recorded date in dd/MM/yyyy format:
+Please enter your episode's length in minutes between 1 and 300:
+Please enter if episode is reserved for premium listeners only (true/false):
+
+Podcaster Menu.
+Please make a choice from the menu below.
+1. See my details.
+2. Change my password.
+3. Create an episode.
+4. View my episodes.
+5. View statistics about my episodes.
+6. View feedback about my episodes.
+7. Log out.
+Please enter a choice between 1 and 7:
+Please enter your episode's name:
+Please enter your podcast description:
+Please enter your episode's recorded date in dd/MM/yyyy format:
+Please enter your episode's length in minutes between 1 and 300:
+Please enter if episode is reserved for premium listeners only (true/false):
+
+Podcaster Menu.
+Please make a choice from the menu below.
+1. See my details.
+2. Change my password.
+3. Create an episode.
+4. View my episodes.
+5. View statistics about my episodes.
+6. View feedback about my episodes.
+7. Log out.
+Please enter a choice between 1 and 7:
+Your episodes.
+Num  Name                          Recorded Date  Length (min)   Premium Only   
+1.   Hello World                   01/04/2026     90             False          
+2.   Selection and Iteration       08/04/2026     65             False          
+3.   Classes and Objects           15/04/2026     110            False          
+4.   Abstraction and Encapsulation 22/04/2026     110            False          
+5.   Inheritance                   29/04/2026     80             False          
+6.   Polymorphism                  06/05/2026     50             False          
+
+Podcaster Menu.
+Please make a choice from the menu below.
+1. See my details.
+2. Change my password.
+3. Create an episode.
+4. View my episodes.
+5. View statistics about my episodes.
+6. View feedback about my episodes.
+7. Log out.
+Please enter a choice between 1 and 7:
+
+Main Menu.
+Please make a choice from the menu below.
+1. Log in as a registered user.
+2. Register as a new user.
+3. Exit.
+Please enter a choice between 1 and 3:
+See you on the next rotation.

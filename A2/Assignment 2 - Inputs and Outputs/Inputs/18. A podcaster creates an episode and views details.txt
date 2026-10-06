@@ -1,0 +1,22 @@
+2
+3
+Cody Coder
+32
+0450379214
+codingfun@email.com
+Coding4Ever
+5
+Building Better Code
+Learn techniques to help you build efficient, maintainable and sustainable code.
+1
+codingfun@email.com
+Coding4Ever
+3
+Hello World
+The first and most important lesson about coding.
+01/04/2026
+90
+false
+4
+7
+3

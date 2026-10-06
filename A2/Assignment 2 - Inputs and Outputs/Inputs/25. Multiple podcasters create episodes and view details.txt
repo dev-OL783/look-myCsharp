@@ -1,0 +1,127 @@
+2
+3
+Cody Coder
+32
+0450379214
+codingfun@email.com
+Coding4Ever
+5
+Building Better Code
+Learn techniques to help you build efficient, maintainable and sustainable code.
+2
+3
+Peter Jackson
+65
+0419725890
+pj@weka.com
+SauronL1ves
+6
+Creating Middle Earth
+A BYO guide to building your very own middle earth.
+2
+3
+J. Jonah Jameson
+60
+0489023843
+jjj@dailybugle.com
+SpideySucks22
+1
+He's a menace
+Understanding the menace that is Spider-Man.
+2
+3
+Lois Lane
+32
+0476826097
+l.lane@dailyplanet.com
+Adventure5
+2
+Luthor: Man or Monster
+A comprehensive look at the millionaire who wants to be the President of the USA.
+2
+3
+Bruce McAvaney
+73
+0467921389
+b.mcavaney@seven.net.au
+Special1
+3
+Towards 2032
+A discussion about the future heroes and villains for the Brisbane 2032 Games.
+2
+3
+DJ Cash
+18
+0412111874
+dj@cashandco.com
+Cash1t1n
+4
+Worldwide Music
+The latest and greatest music from around the world.
+1
+dj@cashandco.com
+Cash1t1n
+3
+Millennial Memorables
+A nostalgic look back at music from the 2000s and 2010s.
+30/01/2026
+120
+false
+4
+7
+1
+b.mcavaney@seven.net.au
+Special1
+3
+The Stadium 
+Which is the best place for the next Brisbane stadium?
+01/01/2026
+60
+false
+4
+7
+1
+codingfun@email.com
+Coding4Ever
+3
+Hello World
+The first and most important lesson about coding.
+01/04/2026
+90
+false
+4
+7
+1
+pj@weka.com
+SauronL1ves
+3
+Hobbiton
+Creating a village of half-lings in your own backyard.
+06/06/2026
+300
+false
+4
+7
+1
+jjj@dailybugle.com
+SpideySucks22
+3
+Brooklyn Crimes in July
+A report om the number of crimes that have been committed in July because of Spider-Man.
+01/08/2026
+1
+false
+4
+7
+1
+l.lane@dailyplanet.com
+Adventure5
+3
+Smallville
+Growing up, Lex Luthor spent time in Smallville. How did this influence the man he became?
+01/10/2026
+130
+false
+4
+7
+3

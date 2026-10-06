@@ -1,0 +1,171 @@
+2
+3
+Cody Coder
+32
+0450379214
+codingfun@email.com
+Coding4Ever
+5
+Building Better Code
+Learn techniques to help you build efficient, maintainable and sustainable code.
+1
+codingfun@email.com
+Coding4Ever
+3
+Hello World
+The first and most important lesson about coding.
+01/04/2026
+90
+false
+3
+Selection and Iteration
+Choosing between many options and knowing how to loop.
+08/04/2026
+65
+false
+7
+1
+codingfun@email.com
+Coding4Ever
+3
+Classes and Objects
+Learning new key material and using the keyword new.
+15/04/2026
+110
+false
+7
+1
+codingfun@email.com
+Coding4Ever
+3
+Abstraction and Encapsulation
+Naming things and keeping secrets.
+22/04/2026
+110
+false
+7
+1
+codingfun@email.com
+Coding4Ever
+3
+Inheritance
+You are always a new version of your parents.
+29/04/2026
+80
+false
+3
+Polymorphism
+We may have the same name, but we couldn’t be more different.
+06/05/2026
+50
+false
+7
+2
+1
+Brian McGee
+26
+0234985123
+goodbeer@email.com
+Listening2Queen
+1
+goodbeer@email.com
+Listening2Queen
+4
+1
+1
+01/12/2026
+90
+5
+1
+1
+true
+This was an enlightening episode. I will take my new knowledge and spread it all over the world.
+6
+1
+goodbeer@email.com
+Listening2Queen
+4
+1
+2
+02/12/2026
+65
+5
+1
+2
+true
+I have always wondered what was the point of an if statement. Now I know.
+6
+1
+goodbeer@email.com
+Listening2Queen
+4
+1
+3
+03/12/2026
+110
+5
+1
+3
+true
+There was a lot of talk about cookie cutters and cookies, but I think I got it.
+6
+1
+goodbeer@email.com
+Listening2Queen
+4
+1
+4
+04/12/2026
+110
+5
+1
+4
+true
+At first this episode seemed a bit difficult, but once Cody started talking about coffee machines it was great.
+6
+1
+goodbeer@email.com
+Listening2Queen
+4
+1
+5
+05/12/2026
+80
+5
+1
+5
+true
+Wow, I now see how useful this OO stuff is.
+6
+1
+goodbeer@email.com
+Listening2Queen
+4
+1
+6
+06/12/2026
+50
+5
+1
+6
+true
+This really blew my mind. I now understand the advantages of OO. 
+6
+1
+codingfun@email.com
+Coding4Ever
+5
+6
+1
+6
+2
+6
+3
+6
+4
+6
+5
+6
+6
+7
+3

@@ -1,0 +1,88 @@
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+==
+         Welcome to PodCastWorld!     
+      Podcasting all over the world.      
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+==
+
+Main Menu.
+Please make a choice from the menu below.
+1. Log in as a registered user.
+2. Register as a new user.
+3. Exit.
+Please enter a choice between 1 and 3:
+
+Registration Menu.
+Please enter your user type.
+1. A regular listener.
+2. A premium listener.
+3. A podcaster.
+Please enter a choice between 1 and 3:
+Registering as a premium listener.
+Please enter your name:
+Please enter your age between 18 and 99:
+Please enter your mobile number:
+Please enter your email:
+Please enter your password:
+Your password must:
+- be at least 8 characters long
+- contain a number
+- contain a lowercase letter
+- contain an uppercase letter
+Please enter the registration date in dd/MM/yyyy format:
+Please enter your pay ID between 100000 and 999999:
+Congratulations Mona Moneybags. You have registered as a premium listener.
+
+Main Menu.
+Please make a choice from the menu below.
+1. Log in as a registered user.
+2. Register as a new user.
+3. Exit.
+Please enter a choice between 1 and 3:
+
+Log in Menu.
+Please enter your email:
+Please enter your password:
+Welcome back Mona Moneybags.
+
+Premium Listener Menu.
+Please make a choice from the menu below.
+1. See my details.
+2. Change my password.
+3. View all podcasts.
+4. Listen to a podcast episode.
+5. Listen to a subscribed podcast episode.
+6. Subscribe to a podcast.
+7. Unsubscribe from a podcast.
+8. Provide feedback on a podcast episode.
+9. Log out.
+Please enter a choice between 1 and 9:
+Your details.
+Name: Mona Moneybags
+Age: 55
+Mobile phone number: 0487612123
+Email: mona@moneybags.com
+Episodes started: 0
+Episodes completed: 0
+Total minutes listened to: 0
+Registration Date: 01/04/2026
+Pay ID: 123456
+
+Premium Listener Menu.
+Please make a choice from the menu below.
+1. See my details.
+2. Change my password.
+3. View all podcasts.
+4. Listen to a podcast episode.
+5. Listen to a subscribed podcast episode.
+6. Subscribe to a podcast.
+7. Unsubscribe from a podcast.
+8. Provide feedback on a podcast episode.
+9. Log out.
+Please enter a choice between 1 and 9:
+
+Main Menu.
+Please make a choice from the menu below.
+1. Log in as a registered user.
+2. Register as a new user.
+3. Exit.
+Please enter a choice between 1 and 3:
+See you on the next rotation.

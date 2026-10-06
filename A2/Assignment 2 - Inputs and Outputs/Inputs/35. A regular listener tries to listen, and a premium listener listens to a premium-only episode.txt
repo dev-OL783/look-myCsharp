@@ -1,0 +1,75 @@
+2
+3
+Uncle Pennybags
+65
+0489178821
+mrmonopoly@games.com
+PlayAG4me
+5
+How to make a monopoly
+A detailed play-by-play guide to own everything
+1
+mrmonopoly@games.com
+PlayAG4me
+3
+How to make money
+My ideas to make money
+12/03/2026
+20
+false
+3
+How to make LOTS of money
+The real way to make lots of money
+15/03/2026
+150
+true
+7
+2
+2
+Mona Moneybags
+55
+0487612123
+mona@moneybags.com
+911Money
+01/04/2026
+123456
+1
+mona@moneybags.com
+911Money
+3
+1
+4
+1
+1
+20/03/2026
+20
+4
+1
+2
+25/03/2026
+150
+1
+9
+2
+1
+Brian McGee
+26
+0234985123
+goodbeer@email.com
+Listening2Queen
+1
+goodbeer@email.com
+Listening2Queen
+3
+1
+4
+1
+1
+20/03/2026
+20
+4
+1
+2
+1
+6
+3

@@ -1,0 +1,337 @@
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+==
+         Welcome to PodCastWorld!     
+      Podcasting all over the world.      
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+==
+
+Main Menu.
+Please make a choice from the menu below.
+1. Log in as a registered user.
+2. Register as a new user.
+3. Exit.
+Please enter a choice between 1 and 3:
+
+Registration Menu.
+Please enter your user type.
+1. A regular listener.
+2. A premium listener.
+3. A podcaster.
+Please enter a choice between 1 and 3:
+Registering as a podcaster.
+Please enter your name:
+Please enter your age between 18 and 99:
+Please enter your mobile number:
+Please enter your email:
+Please enter your password:
+Your password must:
+- be at least 8 characters long
+- contain a number
+- contain a lowercase letter
+- contain an uppercase letter
+Please enter your podcast genre:
+1. News.
+2. Politics.
+3. Sports.
+4. Entertainment.
+5. Education.
+6. Hobbies.
+Please enter a choice between 1 and 6:
+Please enter your podcast name:
+Please enter your podcast description:
+Congratulations Cody Coder. You have registered as a podcaster.
+
+Main Menu.
+Please make a choice from the menu below.
+1. Log in as a registered user.
+2. Register as a new user.
+3. Exit.
+Please enter a choice between 1 and 3:
+
+Log in Menu.
+Please enter your email:
+Please enter your password:
+Welcome back Cody Coder.
+
+Podcaster Menu.
+Please make a choice from the menu below.
+1. See my details.
+2. Change my password.
+3. Create an episode.
+4. View my episodes.
+5. View statistics about my episodes.
+6. View feedback about my episodes.
+7. Log out.
+Please enter a choice between 1 and 7:
+Please enter your episode's name:
+Please enter your podcast description:
+Please enter your episode's recorded date in dd/MM/yyyy format:
+Please enter your episode's length in minutes between 1 and 300:
+Please enter if episode is reserved for premium listeners only (true/false):
+
+Podcaster Menu.
+Please make a choice from the menu below.
+1. See my details.
+2. Change my password.
+3. Create an episode.
+4. View my episodes.
+5. View statistics about my episodes.
+6. View feedback about my episodes.
+7. Log out.
+Please enter a choice between 1 and 7:
+Please enter your episode's name:
+Please enter your podcast description:
+Please enter your episode's recorded date in dd/MM/yyyy format:
+Please enter your episode's length in minutes between 1 and 300:
+Please enter if episode is reserved for premium listeners only (true/false):
+
+Podcaster Menu.
+Please make a choice from the menu below.
+1. See my details.
+2. Change my password.
+3. Create an episode.
+4. View my episodes.
+5. View statistics about my episodes.
+6. View feedback about my episodes.
+7. Log out.
+Please enter a choice between 1 and 7:
+
+Main Menu.
+Please make a choice from the menu below.
+1. Log in as a registered user.
+2. Register as a new user.
+3. Exit.
+Please enter a choice between 1 and 3:
+
+Registration Menu.
+Please enter your user type.
+1. A regular listener.
+2. A premium listener.
+3. A podcaster.
+Please enter a choice between 1 and 3:
+Registering as a premium listener.
+Please enter your name:
+Please enter your age between 18 and 99:
+Please enter your mobile number:
+Please enter your email:
+Please enter your password:
+Your password must:
+- be at least 8 characters long
+- contain a number
+- contain a lowercase letter
+- contain an uppercase letter
+Please enter the registration date in dd/MM/yyyy format:
+Please enter your pay ID between 100000 and 999999:
+Congratulations Mona Moneybags. You have registered as a premium listener.
+
+Main Menu.
+Please make a choice from the menu below.
+1. Log in as a registered user.
+2. Register as a new user.
+3. Exit.
+Please enter a choice between 1 and 3:
+
+Log in Menu.
+Please enter your email:
+Please enter your password:
+Welcome back Mona Moneybags.
+
+Premium Listener Menu.
+Please make a choice from the menu below.
+1. See my details.
+2. Change my password.
+3. View all podcasts.
+4. Listen to a podcast episode.
+5. Listen to a subscribed podcast episode.
+6. Subscribe to a podcast.
+7. Unsubscribe from a podcast.
+8. Provide feedback on a podcast episode.
+9. Log out.
+Please enter a choice between 1 and 9:
+Subscripted podcasts.
+You are not subscribed to any podcasts.
+Available podcasts.
+Num  Name                     Podcaster           Subscribers    
+1.   Building Better Code     Cody Coder          0              
+Please enter the podcast's menu number to subscribe or enter 0 to cancel:
+Congratulations, you have been subscribed to Building Better Code.
+
+Premium Listener Menu.
+Please make a choice from the menu below.
+1. See my details.
+2. Change my password.
+3. View all podcasts.
+4. Listen to a podcast episode.
+5. Listen to a subscribed podcast episode.
+6. Subscribe to a podcast.
+7. Unsubscribe from a podcast.
+8. Provide feedback on a podcast episode.
+9. Log out.
+Please enter a choice between 1 and 9:
+Displaying subscribed podcasts for Mona Moneybags to listen to.
+Num  Name                     Podcaster           Subscribers    
+1.   Building Better Code     Cody Coder          1              
+Please enter the podcast's menu number to view more information or enter 0 to cancel:
+Podcast Information.
+Name: Building Better Code
+Podcaster: Cody Coder
+Podcast description: Learn techniques to help you build efficient, maintainable and sustainable code.
+List of episodes.
+Num  Name                          Recorded Date  Length (min)   Premium Only   Description                   
+1.   Hello World                   01/04/2026     90             False          The first and most important lesson about coding.
+2.   Selection and Iteration       08/04/2026     65             False          Choosing between many options and knowing how to loop.
+Please enter the episode's menu number to listen to the episode or enter 0 to cancel:
+Please enter the date in dd/MM/yyyy format that you listened to the episode:
+Please enter how many minutes you listened to the episode:
+In total you have listened to podcast Building Better Code, episode Hello World, for 60 minutes. The last time you listened was on 09/04/2026. You have 30 minutes remaining.
+
+Premium Listener Menu.
+Please make a choice from the menu below.
+1. See my details.
+2. Change my password.
+3. View all podcasts.
+4. Listen to a podcast episode.
+5. Listen to a subscribed podcast episode.
+6. Subscribe to a podcast.
+7. Unsubscribe from a podcast.
+8. Provide feedback on a podcast episode.
+9. Log out.
+Please enter a choice between 1 and 9:
+
+Main Menu.
+Please make a choice from the menu below.
+1. Log in as a registered user.
+2. Register as a new user.
+3. Exit.
+Please enter a choice between 1 and 3:
+
+Log in Menu.
+Please enter your email:
+Please enter your password:
+Welcome back Mona Moneybags.
+
+Premium Listener Menu.
+Please make a choice from the menu below.
+1. See my details.
+2. Change my password.
+3. View all podcasts.
+4. Listen to a podcast episode.
+5. Listen to a subscribed podcast episode.
+6. Subscribe to a podcast.
+7. Unsubscribe from a podcast.
+8. Provide feedback on a podcast episode.
+9. Log out.
+Please enter a choice between 1 and 9:
+Displaying subscribed podcasts for Mona Moneybags to listen to.
+Num  Name                     Podcaster           Subscribers    
+1.   Building Better Code     Cody Coder          1              
+Please enter the podcast's menu number to view more information or enter 0 to cancel:
+Podcast Information.
+Name: Building Better Code
+Podcaster: Cody Coder
+Podcast description: Learn techniques to help you build efficient, maintainable and sustainable code.
+List of episodes.
+Num  Name                          Recorded Date  Length (min)   Premium Only   Description                   
+1.   Hello World                   01/04/2026     90             False          The first and most important lesson about coding.
+2.   Selection and Iteration       08/04/2026     65             False          Choosing between many options and knowing how to loop.
+Please enter the episode's menu number to listen to the episode or enter 0 to cancel:
+You have listened to podcast Building Better Code, episode Hello World, for 60 minutes. The last time you listened was on 09/04/2026. You have 30 minutes remaining.
+Please enter the date in dd/MM/yyyy format that you listened to the episode:
+Please enter how many minutes you listened to the episode:
+Congratulations Mona Moneybags. You have finished the episode Hello World.
+
+Premium Listener Menu.
+Please make a choice from the menu below.
+1. See my details.
+2. Change my password.
+3. View all podcasts.
+4. Listen to a podcast episode.
+5. Listen to a subscribed podcast episode.
+6. Subscribe to a podcast.
+7. Unsubscribe from a podcast.
+8. Provide feedback on a podcast episode.
+9. Log out.
+Please enter a choice between 1 and 9:
+
+Main Menu.
+Please make a choice from the menu below.
+1. Log in as a registered user.
+2. Register as a new user.
+3. Exit.
+Please enter a choice between 1 and 3:
+
+Log in Menu.
+Please enter your email:
+Please enter your password:
+Welcome back Mona Moneybags.
+
+Premium Listener Menu.
+Please make a choice from the menu below.
+1. See my details.
+2. Change my password.
+3. View all podcasts.
+4. Listen to a podcast episode.
+5. Listen to a subscribed podcast episode.
+6. Subscribe to a podcast.
+7. Unsubscribe from a podcast.
+8. Provide feedback on a podcast episode.
+9. Log out.
+Please enter a choice between 1 and 9:
+Displaying subscribed podcasts for Mona Moneybags to listen to.
+Num  Name                     Podcaster           Subscribers    
+1.   Building Better Code     Cody Coder          1              
+Please enter the podcast's menu number to view more information or enter 0 to cancel:
+Podcast Information.
+Name: Building Better Code
+Podcaster: Cody Coder
+Podcast description: Learn techniques to help you build efficient, maintainable and sustainable code.
+List of episodes.
+Num  Name                          Recorded Date  Length (min)   Premium Only   Description                   
+1.   Hello World                   01/04/2026     90             False          The first and most important lesson about coding.
+2.   Selection and Iteration       08/04/2026     65             False          Choosing between many options and knowing how to loop.
+Please enter the episode's menu number to listen to the episode or enter 0 to cancel:
+Please enter the date in dd/MM/yyyy format that you listened to the episode:
+Please enter how many minutes you listened to the episode:
+Congratulations Mona Moneybags. You have finished the episode Selection and Iteration.
+
+Premium Listener Menu.
+Please make a choice from the menu below.
+1. See my details.
+2. Change my password.
+3. View all podcasts.
+4. Listen to a podcast episode.
+5. Listen to a subscribed podcast episode.
+6. Subscribe to a podcast.
+7. Unsubscribe from a podcast.
+8. Provide feedback on a podcast episode.
+9. Log out.
+Please enter a choice between 1 and 9:
+Your details.
+Name: Mona Moneybags
+Age: 55
+Mobile phone number: 0487612123
+Email: mona@moneybags.com
+Episodes started: 2
+Episodes completed: 2
+Total minutes listened to: 155
+Registration Date: 01/04/2026
+Pay ID: 123456
+
+Premium Listener Menu.
+Please make a choice from the menu below.
+1. See my details.
+2. Change my password.
+3. View all podcasts.
+4. Listen to a podcast episode.
+5. Listen to a subscribed podcast episode.
+6. Subscribe to a podcast.
+7. Unsubscribe from a podcast.
+8. Provide feedback on a podcast episode.
+9. Log out.
+Please enter a choice between 1 and 9:
+
+Main Menu.
+Please make a choice from the menu below.
+1. Log in as a registered user.
+2. Register as a new user.
+3. Exit.
+Please enter a choice between 1 and 3:
+See you on the next rotation.

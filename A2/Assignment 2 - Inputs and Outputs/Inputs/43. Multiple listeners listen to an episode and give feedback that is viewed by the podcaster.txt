@@ -1,0 +1,157 @@
+2
+3
+Cody Coder
+32
+0450379214
+codingfun@email.com
+Coding4Ever
+5
+Building Better Code
+Learn techniques to help you build efficient, maintainable and sustainable code.
+1
+codingfun@email.com
+Coding4Ever
+3
+Hello World
+The first and most important lesson about coding.
+01/04/2026
+90
+false
+7
+2
+1
+Brian McGee
+26
+0234985123
+goodbeer@email.com
+Listening2Queen
+1
+goodbeer@email.com
+Listening2Queen
+4
+1
+1
+08/04/2026
+90
+5
+1
+1
+true
+This was an enlightening episode. I will take my new knowledge and spread it all over the world. 
+6
+2
+1
+Larry Listener
+25
+0491373798
+larry@email.com
+Qwer1234
+1
+larry@email.com
+Qwer1234
+4
+1
+1
+10/04/2026
+90
+5
+1
+1
+false
+I tried to get into this but couldn't. I just want something about vibe coding.
+6
+2
+1
+Granny Smith
+99
+0476535627
+granny@smith.com
+Password1
+1
+granny@smith.com
+Password1
+4
+1
+1
+13/04/2026
+90
+5
+1
+1
+true
+This will help me keep up-to-date with the grandkids on ticky tok.
+6
+2
+1
+Homer J. Simpson
+36
+0487890350
+homerjay@simpsons.com
+DohBart123
+1
+homerjay@simpsons.com
+DohBart123
+4
+1
+1
+13/04/2026
+90
+5
+1
+1
+false
+What's a computer? Stupid Flanders.
+6
+2
+2
+Mona Moneybags
+55
+0487612123
+mona@moneybags.com
+911Money
+01/04/2026
+123456
+1
+mona@moneybags.com
+911Money
+4
+1
+1
+15/04/2026
+90
+8
+1
+1
+false
+Who needs software developers anymore? I'm just going to sack my staff and replace them with AI.
+9
+2
+2
+Jack Lewis
+30
+0475987234
+jack@work.com
+Th3r3sAcR0c
+31/03/2026
+654321
+1
+jack@work.com
+Th3r3sAcR0c
+4
+1
+1
+15/04/2026
+90
+8
+1
+1
+true
+Thank you Cody. This episode was very useful because I need to protect my crocodiles from killer robots.
+9
+1
+codingfun@email.com
+Coding4Ever
+6
+1
+7
+3

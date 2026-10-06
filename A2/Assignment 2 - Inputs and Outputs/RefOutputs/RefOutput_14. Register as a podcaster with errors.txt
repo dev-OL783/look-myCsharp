@@ -1,0 +1,196 @@
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+==
+         Welcome to PodCastWorld!     
+      Podcasting all over the world.      
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+==
+
+Main Menu.
+Please make a choice from the menu below.
+1. Log in as a registered user.
+2. Register as a new user.
+3. Exit.
+Please enter a choice between 1 and 3:
+
+Registration Menu.
+Please enter your user type.
+1. A regular listener.
+2. A premium listener.
+3. A podcaster.
+Please enter a choice between 1 and 3:
+Registering as a podcaster.
+Please enter your name:
+#####
+# Error - Supplied name is invalid.
+# Please try again.
+#####
+Please enter your name:
+Please enter your age between 18 and 99:
+#####
+# Error - Supplied value must be an integral number.
+# Please try again.
+#####
+Please enter your age between 18 and 99:
+#####
+# Error - Supplied age is invalid.
+# Please try again.
+#####
+Please enter your age between 18 and 99:
+#####
+# Error - Supplied age is invalid.
+# Please try again.
+#####
+Please enter your age between 18 and 99:
+Please enter your mobile number:
+#####
+# Error - Supplied mobile number is invalid.
+# Please try again.
+#####
+Please enter your mobile number:
+#####
+# Error - Supplied mobile number is invalid.
+# Please try again.
+#####
+Please enter your mobile number:
+Please enter your email:
+#####
+# Error - Supplied email is invalid.
+# Please try again.
+#####
+Please enter your email:
+#####
+# Error - Supplied email is invalid.
+# Please try again.
+#####
+Please enter your email:
+#####
+# Error - Supplied email is invalid.
+# Please try again.
+#####
+Please enter your email:
+#####
+# Error - Supplied email is invalid.
+# Please try again.
+#####
+Please enter your email:
+Please enter your password:
+Your password must:
+- be at least 8 characters long
+- contain a number
+- contain a lowercase letter
+- contain an uppercase letter
+#####
+# Error - Supplied password is invalid.
+# Please try again.
+#####
+Please enter your password:
+Your password must:
+- be at least 8 characters long
+- contain a number
+- contain a lowercase letter
+- contain an uppercase letter
+#####
+# Error - Supplied password is invalid.
+# Please try again.
+#####
+Please enter your password:
+Your password must:
+- be at least 8 characters long
+- contain a number
+- contain a lowercase letter
+- contain an uppercase letter
+#####
+# Error - Supplied password is invalid.
+# Please try again.
+#####
+Please enter your password:
+Your password must:
+- be at least 8 characters long
+- contain a number
+- contain a lowercase letter
+- contain an uppercase letter
+Please enter your podcast genre:
+1. News.
+2. Politics.
+3. Sports.
+4. Entertainment.
+5. Education.
+6. Hobbies.
+Please enter a choice between 1 and 6:
+#####
+# Error - Supplied menu input is out of range.
+# Please try again.
+#####
+Please enter a choice between 1 and 6:
+#####
+# Error - Supplied menu input is out of range.
+# Please try again.
+#####
+Please enter a choice between 1 and 6:
+#####
+# Error - Supplied menu input is out of range.
+# Please try again.
+#####
+Please enter a choice between 1 and 6:
+#####
+# Error - Supplied menu input is out of range.
+# Please try again.
+#####
+Please enter a choice between 1 and 6:
+Please enter your podcast name:
+#####
+# Error - Supplied podcast name is invalid.
+# Please try again.
+#####
+Please enter your podcast name:
+Please enter your podcast description:
+Congratulations Cody Coder. You have registered as a podcaster.
+
+Main Menu.
+Please make a choice from the menu below.
+1. Log in as a registered user.
+2. Register as a new user.
+3. Exit.
+Please enter a choice between 1 and 3:
+
+Log in Menu.
+Please enter your email:
+Please enter your password:
+Welcome back Cody Coder.
+
+Podcaster Menu.
+Please make a choice from the menu below.
+1. See my details.
+2. Change my password.
+3. Create an episode.
+4. View my episodes.
+5. View statistics about my episodes.
+6. View feedback about my episodes.
+7. Log out.
+Please enter a choice between 1 and 7:
+Your details.
+Name: Cody Coder
+Age: 32
+Mobile phone number: 0450379214
+Email: codingfun@email.com
+Podcast name: Building Better Code
+Podcast genre: Education
+Podcast description: Learn techniques to help you build efficient, maintainable and sustainable code.
+Number of podcast subscribers: 0
+
+Podcaster Menu.
+Please make a choice from the menu below.
+1. See my details.
+2. Change my password.
+3. Create an episode.
+4. View my episodes.
+5. View statistics about my episodes.
+6. View feedback about my episodes.
+7. Log out.
+Please enter a choice between 1 and 7:
+
+Main Menu.
+Please make a choice from the menu below.
+1. Log in as a registered user.
+2. Register as a new user.
+3. Exit.
+Please enter a choice between 1 and 3:
+See you on the next rotation.

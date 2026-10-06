@@ -1,0 +1,12 @@
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+==
+         Welcome to PodCastWorld!     
+      Podcasting all over the world.      
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+==
+
+Main Menu.
+Please make a choice from the menu below.
+1. Log in as a registered user.
+2. Register as a new user.
+3. Exit.
+Please enter a choice between 1 and 3:
+See you on the next rotation.

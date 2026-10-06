@@ -1,0 +1,126 @@
+2
+3
+Cody Coder
+32
+0450379214
+codingfun@email.com
+Coding4Ever
+5
+Building Better Code
+Learn techniques to help you build efficient, maintainable and sustainable code.
+1
+codingfun@email.com
+Coding4Ever
+3
+Hello World
+The first and most important lesson about coding.
+01/04/2026
+90
+false
+7
+2
+1
+Brian McGee
+26
+0234985123
+goodbeer@email.com
+Listening2Queen
+1
+goodbeer@email.com
+Listening2Queen
+4
+1
+1
+08/04/2026
+90
+6
+2
+1
+Larry Listener
+25
+0491373798
+larry@email.com
+Qwer1234
+1
+larry@email.com
+Qwer1234
+4
+1
+1
+10/04/2026
+20
+6
+2
+1
+Granny Smith
+99
+0476535627
+granny@smith.com
+Password1
+1
+granny@smith.com
+Password1
+4
+1
+1
+13/04/2026
+90
+6
+2
+1
+Homer J. Simpson
+36
+0487890350
+homerjay@simpsons.com
+DohBart123
+1
+homerjay@simpsons.com
+DohBart123
+4
+1
+1
+13/04/2026
+5
+6
+2
+2
+Mona Moneybags
+55
+0487612123
+mona@moneybags.com
+911Money
+01/04/2026
+123456
+1
+mona@moneybags.com
+911Money
+4
+1
+1
+15/04/2026
+90
+9
+2
+2
+Jack Lewis
+30
+0475987234
+jack@work.com
+Th3r3sAcR0c
+31/03/2026
+654321
+1
+jack@work.com
+Th3r3sAcR0c
+4
+1
+1
+15/04/2026
+90
+9
+1
+codingfun@email.com
+Coding4Ever
+5
+7
+3

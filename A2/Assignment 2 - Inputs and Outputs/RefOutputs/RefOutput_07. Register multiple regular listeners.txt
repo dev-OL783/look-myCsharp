@@ -1,0 +1,414 @@
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+==
+         Welcome to PodCastWorld!     
+      Podcasting all over the world.      
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+==
+
+Main Menu.
+Please make a choice from the menu below.
+1. Log in as a registered user.
+2. Register as a new user.
+3. Exit.
+Please enter a choice between 1 and 3:
+
+Registration Menu.
+Please enter your user type.
+1. A regular listener.
+2. A premium listener.
+3. A podcaster.
+Please enter a choice between 1 and 3:
+Registering as a regular listener.
+Please enter your name:
+Please enter your age between 18 and 99:
+Please enter your mobile number:
+Please enter your email:
+Please enter your password:
+Your password must:
+- be at least 8 characters long
+- contain a number
+- contain a lowercase letter
+- contain an uppercase letter
+Congratulations Larry Listener. You have registered as a regular listener.
+
+Main Menu.
+Please make a choice from the menu below.
+1. Log in as a registered user.
+2. Register as a new user.
+3. Exit.
+Please enter a choice between 1 and 3:
+
+Registration Menu.
+Please enter your user type.
+1. A regular listener.
+2. A premium listener.
+3. A podcaster.
+Please enter a choice between 1 and 3:
+Registering as a regular listener.
+Please enter your name:
+Please enter your age between 18 and 99:
+Please enter your mobile number:
+Please enter your email:
+Please enter your password:
+Your password must:
+- be at least 8 characters long
+- contain a number
+- contain a lowercase letter
+- contain an uppercase letter
+Congratulations Sam Bowes. You have registered as a regular listener.
+
+Main Menu.
+Please make a choice from the menu below.
+1. Log in as a registered user.
+2. Register as a new user.
+3. Exit.
+Please enter a choice between 1 and 3:
+
+Registration Menu.
+Please enter your user type.
+1. A regular listener.
+2. A premium listener.
+3. A podcaster.
+Please enter a choice between 1 and 3:
+Registering as a regular listener.
+Please enter your name:
+Please enter your age between 18 and 99:
+Please enter your mobile number:
+Please enter your email:
+Please enter your password:
+Your password must:
+- be at least 8 characters long
+- contain a number
+- contain a lowercase letter
+- contain an uppercase letter
+Congratulations Mona O'Malley. You have registered as a regular listener.
+
+Main Menu.
+Please make a choice from the menu below.
+1. Log in as a registered user.
+2. Register as a new user.
+3. Exit.
+Please enter a choice between 1 and 3:
+
+Registration Menu.
+Please enter your user type.
+1. A regular listener.
+2. A premium listener.
+3. A podcaster.
+Please enter a choice between 1 and 3:
+Registering as a regular listener.
+Please enter your name:
+Please enter your age between 18 and 99:
+Please enter your mobile number:
+Please enter your email:
+Please enter your password:
+Your password must:
+- be at least 8 characters long
+- contain a number
+- contain a lowercase letter
+- contain an uppercase letter
+Congratulations Granny Smith. You have registered as a regular listener.
+
+Main Menu.
+Please make a choice from the menu below.
+1. Log in as a registered user.
+2. Register as a new user.
+3. Exit.
+Please enter a choice between 1 and 3:
+
+Registration Menu.
+Please enter your user type.
+1. A regular listener.
+2. A premium listener.
+3. A podcaster.
+Please enter a choice between 1 and 3:
+Registering as a regular listener.
+Please enter your name:
+Please enter your age between 18 and 99:
+Please enter your mobile number:
+Please enter your email:
+Please enter your password:
+Your password must:
+- be at least 8 characters long
+- contain a number
+- contain a lowercase letter
+- contain an uppercase letter
+Congratulations Donna-Jane Double-Barrel. You have registered as a regular listener.
+
+Main Menu.
+Please make a choice from the menu below.
+1. Log in as a registered user.
+2. Register as a new user.
+3. Exit.
+Please enter a choice between 1 and 3:
+
+Registration Menu.
+Please enter your user type.
+1. A regular listener.
+2. A premium listener.
+3. A podcaster.
+Please enter a choice between 1 and 3:
+Registering as a regular listener.
+Please enter your name:
+Please enter your age between 18 and 99:
+Please enter your mobile number:
+Please enter your email:
+Please enter your password:
+Your password must:
+- be at least 8 characters long
+- contain a number
+- contain a lowercase letter
+- contain an uppercase letter
+Congratulations Homer J. Simpson. You have registered as a regular listener.
+
+Main Menu.
+Please make a choice from the menu below.
+1. Log in as a registered user.
+2. Register as a new user.
+3. Exit.
+Please enter a choice between 1 and 3:
+
+Log in Menu.
+Please enter your email:
+Please enter your password:
+Welcome back Larry Listener.
+
+Regular Listener Menu.
+Please make a choice from the menu below.
+1. See my details.
+2. Change my password.
+3. View all podcasts.
+4. Listen to a podcast episode.
+5. Provide feedback on a podcast episode.
+6. Log out.
+Please enter a choice between 1 and 6:
+Your details.
+Name: Larry Listener
+Age: 25
+Mobile phone number: 0491373798
+Email: larry@email.com
+Episodes started: 0
+Episodes completed: 0
+Total minutes listened to: 0
+Advertisements listened to: 0
+
+Regular Listener Menu.
+Please make a choice from the menu below.
+1. See my details.
+2. Change my password.
+3. View all podcasts.
+4. Listen to a podcast episode.
+5. Provide feedback on a podcast episode.
+6. Log out.
+Please enter a choice between 1 and 6:
+
+Main Menu.
+Please make a choice from the menu below.
+1. Log in as a registered user.
+2. Register as a new user.
+3. Exit.
+Please enter a choice between 1 and 3:
+
+Log in Menu.
+Please enter your email:
+Please enter your password:
+Welcome back Mona O'Malley.
+
+Regular Listener Menu.
+Please make a choice from the menu below.
+1. See my details.
+2. Change my password.
+3. View all podcasts.
+4. Listen to a podcast episode.
+5. Provide feedback on a podcast episode.
+6. Log out.
+Please enter a choice between 1 and 6:
+Your details.
+Name: Mona O'Malley
+Age: 56
+Mobile phone number: 0456712343
+Email: mona@example.com
+Episodes started: 0
+Episodes completed: 0
+Total minutes listened to: 0
+Advertisements listened to: 0
+
+Regular Listener Menu.
+Please make a choice from the menu below.
+1. See my details.
+2. Change my password.
+3. View all podcasts.
+4. Listen to a podcast episode.
+5. Provide feedback on a podcast episode.
+6. Log out.
+Please enter a choice between 1 and 6:
+
+Main Menu.
+Please make a choice from the menu below.
+1. Log in as a registered user.
+2. Register as a new user.
+3. Exit.
+Please enter a choice between 1 and 3:
+
+Log in Menu.
+Please enter your email:
+Please enter your password:
+Welcome back Sam Bowes.
+
+Regular Listener Menu.
+Please make a choice from the menu below.
+1. See my details.
+2. Change my password.
+3. View all podcasts.
+4. Listen to a podcast episode.
+5. Provide feedback on a podcast episode.
+6. Log out.
+Please enter a choice between 1 and 6:
+Your details.
+Name: Sam Bowes
+Age: 25
+Mobile phone number: 0491373798
+Email: sam@email.com
+Episodes started: 0
+Episodes completed: 0
+Total minutes listened to: 0
+Advertisements listened to: 0
+
+Regular Listener Menu.
+Please make a choice from the menu below.
+1. See my details.
+2. Change my password.
+3. View all podcasts.
+4. Listen to a podcast episode.
+5. Provide feedback on a podcast episode.
+6. Log out.
+Please enter a choice between 1 and 6:
+
+Main Menu.
+Please make a choice from the menu below.
+1. Log in as a registered user.
+2. Register as a new user.
+3. Exit.
+Please enter a choice between 1 and 3:
+
+Log in Menu.
+Please enter your email:
+Please enter your password:
+Welcome back Granny Smith.
+
+Regular Listener Menu.
+Please make a choice from the menu below.
+1. See my details.
+2. Change my password.
+3. View all podcasts.
+4. Listen to a podcast episode.
+5. Provide feedback on a podcast episode.
+6. Log out.
+Please enter a choice between 1 and 6:
+Your details.
+Name: Granny Smith
+Age: 99
+Mobile phone number: 0476535627
+Email: granny@smith.com
+Episodes started: 0
+Episodes completed: 0
+Total minutes listened to: 0
+Advertisements listened to: 0
+
+Regular Listener Menu.
+Please make a choice from the menu below.
+1. See my details.
+2. Change my password.
+3. View all podcasts.
+4. Listen to a podcast episode.
+5. Provide feedback on a podcast episode.
+6. Log out.
+Please enter a choice between 1 and 6:
+
+Main Menu.
+Please make a choice from the menu below.
+1. Log in as a registered user.
+2. Register as a new user.
+3. Exit.
+Please enter a choice between 1 and 3:
+
+Log in Menu.
+Please enter your email:
+Please enter your password:
+Welcome back Donna-Jane Double-Barrel.
+
+Regular Listener Menu.
+Please make a choice from the menu below.
+1. See my details.
+2. Change my password.
+3. View all podcasts.
+4. Listen to a podcast episode.
+5. Provide feedback on a podcast episode.
+6. Log out.
+Please enter a choice between 1 and 6:
+Your details.
+Name: Donna-Jane Double-Barrel
+Age: 65
+Mobile phone number: 0487268071
+Email: dj@email.com
+Episodes started: 0
+Episodes completed: 0
+Total minutes listened to: 0
+Advertisements listened to: 0
+
+Regular Listener Menu.
+Please make a choice from the menu below.
+1. See my details.
+2. Change my password.
+3. View all podcasts.
+4. Listen to a podcast episode.
+5. Provide feedback on a podcast episode.
+6. Log out.
+Please enter a choice between 1 and 6:
+
+Main Menu.
+Please make a choice from the menu below.
+1. Log in as a registered user.
+2. Register as a new user.
+3. Exit.
+Please enter a choice between 1 and 3:
+
+Log in Menu.
+Please enter your email:
+Please enter your password:
+Welcome back Homer J. Simpson.
+
+Regular Listener Menu.
+Please make a choice from the menu below.
+1. See my details.
+2. Change my password.
+3. View all podcasts.
+4. Listen to a podcast episode.
+5. Provide feedback on a podcast episode.
+6. Log out.
+Please enter a choice between 1 and 6:
+Your details.
+Name: Homer J. Simpson
+Age: 36
+Mobile phone number: 0487890350
+Email: homerjay@simpsons.com
+Episodes started: 0
+Episodes completed: 0
+Total minutes listened to: 0
+Advertisements listened to: 0
+
+Regular Listener Menu.
+Please make a choice from the menu below.
+1. See my details.
+2. Change my password.
+3. View all podcasts.
+4. Listen to a podcast episode.
+5. Provide feedback on a podcast episode.
+6. Log out.
+Please enter a choice between 1 and 6:
+
+Main Menu.
+Please make a choice from the menu below.
+1. Log in as a registered user.
+2. Register as a new user.
+3. Exit.
+Please enter a choice between 1 and 3:
+See you on the next rotation.

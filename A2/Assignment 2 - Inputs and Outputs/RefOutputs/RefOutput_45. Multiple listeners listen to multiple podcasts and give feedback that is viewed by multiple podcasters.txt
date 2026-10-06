@@ -1,0 +1,2033 @@
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+==
+         Welcome to PodCastWorld!     
+      Podcasting all over the world.      
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+==
+
+Main Menu.
+Please make a choice from the menu below.
+1. Log in as a registered user.
+2. Register as a new user.
+3. Exit.
+Please enter a choice between 1 and 3:
+
+Registration Menu.
+Please enter your user type.
+1. A regular listener.
+2. A premium listener.
+3. A podcaster.
+Please enter a choice between 1 and 3:
+Registering as a podcaster.
+Please enter your name:
+Please enter your age between 18 and 99:
+Please enter your mobile number:
+Please enter your email:
+Please enter your password:
+Your password must:
+- be at least 8 characters long
+- contain a number
+- contain a lowercase letter
+- contain an uppercase letter
+Please enter your podcast genre:
+1. News.
+2. Politics.
+3. Sports.
+4. Entertainment.
+5. Education.
+6. Hobbies.
+Please enter a choice between 1 and 6:
+Please enter your podcast name:
+Please enter your podcast description:
+Congratulations Cody Coder. You have registered as a podcaster.
+
+Main Menu.
+Please make a choice from the menu below.
+1. Log in as a registered user.
+2. Register as a new user.
+3. Exit.
+Please enter a choice between 1 and 3:
+
+Registration Menu.
+Please enter your user type.
+1. A regular listener.
+2. A premium listener.
+3. A podcaster.
+Please enter a choice between 1 and 3:
+Registering as a podcaster.
+Please enter your name:
+Please enter your age between 18 and 99:
+Please enter your mobile number:
+Please enter your email:
+Please enter your password:
+Your password must:
+- be at least 8 characters long
+- contain a number
+- contain a lowercase letter
+- contain an uppercase letter
+Please enter your podcast genre:
+1. News.
+2. Politics.
+3. Sports.
+4. Entertainment.
+5. Education.
+6. Hobbies.
+Please enter a choice between 1 and 6:
+Please enter your podcast name:
+Please enter your podcast description:
+Congratulations Peter Jackson. You have registered as a podcaster.
+
+Main Menu.
+Please make a choice from the menu below.
+1. Log in as a registered user.
+2. Register as a new user.
+3. Exit.
+Please enter a choice between 1 and 3:
+
+Registration Menu.
+Please enter your user type.
+1. A regular listener.
+2. A premium listener.
+3. A podcaster.
+Please enter a choice between 1 and 3:
+Registering as a podcaster.
+Please enter your name:
+Please enter your age between 18 and 99:
+Please enter your mobile number:
+Please enter your email:
+Please enter your password:
+Your password must:
+- be at least 8 characters long
+- contain a number
+- contain a lowercase letter
+- contain an uppercase letter
+Please enter your podcast genre:
+1. News.
+2. Politics.
+3. Sports.
+4. Entertainment.
+5. Education.
+6. Hobbies.
+Please enter a choice between 1 and 6:
+Please enter your podcast name:
+Please enter your podcast description:
+Congratulations J. Jonah Jameson. You have registered as a podcaster.
+
+Main Menu.
+Please make a choice from the menu below.
+1. Log in as a registered user.
+2. Register as a new user.
+3. Exit.
+Please enter a choice between 1 and 3:
+
+Registration Menu.
+Please enter your user type.
+1. A regular listener.
+2. A premium listener.
+3. A podcaster.
+Please enter a choice between 1 and 3:
+Registering as a podcaster.
+Please enter your name:
+Please enter your age between 18 and 99:
+Please enter your mobile number:
+Please enter your email:
+Please enter your password:
+Your password must:
+- be at least 8 characters long
+- contain a number
+- contain a lowercase letter
+- contain an uppercase letter
+Please enter your podcast genre:
+1. News.
+2. Politics.
+3. Sports.
+4. Entertainment.
+5. Education.
+6. Hobbies.
+Please enter a choice between 1 and 6:
+Please enter your podcast name:
+Please enter your podcast description:
+Congratulations Lois Lane. You have registered as a podcaster.
+
+Main Menu.
+Please make a choice from the menu below.
+1. Log in as a registered user.
+2. Register as a new user.
+3. Exit.
+Please enter a choice between 1 and 3:
+
+Registration Menu.
+Please enter your user type.
+1. A regular listener.
+2. A premium listener.
+3. A podcaster.
+Please enter a choice between 1 and 3:
+Registering as a podcaster.
+Please enter your name:
+Please enter your age between 18 and 99:
+Please enter your mobile number:
+Please enter your email:
+Please enter your password:
+Your password must:
+- be at least 8 characters long
+- contain a number
+- contain a lowercase letter
+- contain an uppercase letter
+Please enter your podcast genre:
+1. News.
+2. Politics.
+3. Sports.
+4. Entertainment.
+5. Education.
+6. Hobbies.
+Please enter a choice between 1 and 6:
+Please enter your podcast name:
+Please enter your podcast description:
+Congratulations Bruce McAvaney. You have registered as a podcaster.
+
+Main Menu.
+Please make a choice from the menu below.
+1. Log in as a registered user.
+2. Register as a new user.
+3. Exit.
+Please enter a choice between 1 and 3:
+
+Registration Menu.
+Please enter your user type.
+1. A regular listener.
+2. A premium listener.
+3. A podcaster.
+Please enter a choice between 1 and 3:
+Registering as a podcaster.
+Please enter your name:
+Please enter your age between 18 and 99:
+Please enter your mobile number:
+Please enter your email:
+Please enter your password:
+Your password must:
+- be at least 8 characters long
+- contain a number
+- contain a lowercase letter
+- contain an uppercase letter
+Please enter your podcast genre:
+1. News.
+2. Politics.
+3. Sports.
+4. Entertainment.
+5. Education.
+6. Hobbies.
+Please enter a choice between 1 and 6:
+Please enter your podcast name:
+Please enter your podcast description:
+Congratulations DJ Cash. You have registered as a podcaster.
+
+Main Menu.
+Please make a choice from the menu below.
+1. Log in as a registered user.
+2. Register as a new user.
+3. Exit.
+Please enter a choice between 1 and 3:
+
+Log in Menu.
+Please enter your email:
+Please enter your password:
+Welcome back Bruce McAvaney.
+
+Podcaster Menu.
+Please make a choice from the menu below.
+1. See my details.
+2. Change my password.
+3. Create an episode.
+4. View my episodes.
+5. View statistics about my episodes.
+6. View feedback about my episodes.
+7. Log out.
+Please enter a choice between 1 and 7:
+Please enter your episode's name:
+Please enter your podcast description:
+Please enter your episode's recorded date in dd/MM/yyyy format:
+Please enter your episode's length in minutes between 1 and 300:
+Please enter if episode is reserved for premium listeners only (true/false):
+
+Podcaster Menu.
+Please make a choice from the menu below.
+1. See my details.
+2. Change my password.
+3. Create an episode.
+4. View my episodes.
+5. View statistics about my episodes.
+6. View feedback about my episodes.
+7. Log out.
+Please enter a choice between 1 and 7:
+
+Main Menu.
+Please make a choice from the menu below.
+1. Log in as a registered user.
+2. Register as a new user.
+3. Exit.
+Please enter a choice between 1 and 3:
+
+Log in Menu.
+Please enter your email:
+Please enter your password:
+Welcome back DJ Cash.
+
+Podcaster Menu.
+Please make a choice from the menu below.
+1. See my details.
+2. Change my password.
+3. Create an episode.
+4. View my episodes.
+5. View statistics about my episodes.
+6. View feedback about my episodes.
+7. Log out.
+Please enter a choice between 1 and 7:
+Please enter your episode's name:
+Please enter your podcast description:
+Please enter your episode's recorded date in dd/MM/yyyy format:
+Please enter your episode's length in minutes between 1 and 300:
+Please enter if episode is reserved for premium listeners only (true/false):
+
+Podcaster Menu.
+Please make a choice from the menu below.
+1. See my details.
+2. Change my password.
+3. Create an episode.
+4. View my episodes.
+5. View statistics about my episodes.
+6. View feedback about my episodes.
+7. Log out.
+Please enter a choice between 1 and 7:
+
+Main Menu.
+Please make a choice from the menu below.
+1. Log in as a registered user.
+2. Register as a new user.
+3. Exit.
+Please enter a choice between 1 and 3:
+
+Log in Menu.
+Please enter your email:
+Please enter your password:
+Welcome back Cody Coder.
+
+Podcaster Menu.
+Please make a choice from the menu below.
+1. See my details.
+2. Change my password.
+3. Create an episode.
+4. View my episodes.
+5. View statistics about my episodes.
+6. View feedback about my episodes.
+7. Log out.
+Please enter a choice between 1 and 7:
+Please enter your episode's name:
+Please enter your podcast description:
+Please enter your episode's recorded date in dd/MM/yyyy format:
+Please enter your episode's length in minutes between 1 and 300:
+Please enter if episode is reserved for premium listeners only (true/false):
+
+Podcaster Menu.
+Please make a choice from the menu below.
+1. See my details.
+2. Change my password.
+3. Create an episode.
+4. View my episodes.
+5. View statistics about my episodes.
+6. View feedback about my episodes.
+7. Log out.
+Please enter a choice between 1 and 7:
+
+Main Menu.
+Please make a choice from the menu below.
+1. Log in as a registered user.
+2. Register as a new user.
+3. Exit.
+Please enter a choice between 1 and 3:
+
+Log in Menu.
+Please enter your email:
+Please enter your password:
+Welcome back Peter Jackson.
+
+Podcaster Menu.
+Please make a choice from the menu below.
+1. See my details.
+2. Change my password.
+3. Create an episode.
+4. View my episodes.
+5. View statistics about my episodes.
+6. View feedback about my episodes.
+7. Log out.
+Please enter a choice between 1 and 7:
+Please enter your episode's name:
+Please enter your podcast description:
+Please enter your episode's recorded date in dd/MM/yyyy format:
+Please enter your episode's length in minutes between 1 and 300:
+Please enter if episode is reserved for premium listeners only (true/false):
+
+Podcaster Menu.
+Please make a choice from the menu below.
+1. See my details.
+2. Change my password.
+3. Create an episode.
+4. View my episodes.
+5. View statistics about my episodes.
+6. View feedback about my episodes.
+7. Log out.
+Please enter a choice between 1 and 7:
+
+Main Menu.
+Please make a choice from the menu below.
+1. Log in as a registered user.
+2. Register as a new user.
+3. Exit.
+Please enter a choice between 1 and 3:
+
+Log in Menu.
+Please enter your email:
+Please enter your password:
+Welcome back J. Jonah Jameson.
+
+Podcaster Menu.
+Please make a choice from the menu below.
+1. See my details.
+2. Change my password.
+3. Create an episode.
+4. View my episodes.
+5. View statistics about my episodes.
+6. View feedback about my episodes.
+7. Log out.
+Please enter a choice between 1 and 7:
+Please enter your episode's name:
+Please enter your podcast description:
+Please enter your episode's recorded date in dd/MM/yyyy format:
+Please enter your episode's length in minutes between 1 and 300:
+Please enter if episode is reserved for premium listeners only (true/false):
+
+Podcaster Menu.
+Please make a choice from the menu below.
+1. See my details.
+2. Change my password.
+3. Create an episode.
+4. View my episodes.
+5. View statistics about my episodes.
+6. View feedback about my episodes.
+7. Log out.
+Please enter a choice between 1 and 7:
+
+Main Menu.
+Please make a choice from the menu below.
+1. Log in as a registered user.
+2. Register as a new user.
+3. Exit.
+Please enter a choice between 1 and 3:
+
+Log in Menu.
+Please enter your email:
+Please enter your password:
+Welcome back Lois Lane.
+
+Podcaster Menu.
+Please make a choice from the menu below.
+1. See my details.
+2. Change my password.
+3. Create an episode.
+4. View my episodes.
+5. View statistics about my episodes.
+6. View feedback about my episodes.
+7. Log out.
+Please enter a choice between 1 and 7:
+Please enter your episode's name:
+Please enter your podcast description:
+Please enter your episode's recorded date in dd/MM/yyyy format:
+Please enter your episode's length in minutes between 1 and 300:
+Please enter if episode is reserved for premium listeners only (true/false):
+
+Podcaster Menu.
+Please make a choice from the menu below.
+1. See my details.
+2. Change my password.
+3. Create an episode.
+4. View my episodes.
+5. View statistics about my episodes.
+6. View feedback about my episodes.
+7. Log out.
+Please enter a choice between 1 and 7:
+
+Main Menu.
+Please make a choice from the menu below.
+1. Log in as a registered user.
+2. Register as a new user.
+3. Exit.
+Please enter a choice between 1 and 3:
+
+Registration Menu.
+Please enter your user type.
+1. A regular listener.
+2. A premium listener.
+3. A podcaster.
+Please enter a choice between 1 and 3:
+Registering as a regular listener.
+Please enter your name:
+Please enter your age between 18 and 99:
+Please enter your mobile number:
+Please enter your email:
+Please enter your password:
+Your password must:
+- be at least 8 characters long
+- contain a number
+- contain a lowercase letter
+- contain an uppercase letter
+Congratulations Brian McGee. You have registered as a regular listener.
+
+Main Menu.
+Please make a choice from the menu below.
+1. Log in as a registered user.
+2. Register as a new user.
+3. Exit.
+Please enter a choice between 1 and 3:
+
+Log in Menu.
+Please enter your email:
+Please enter your password:
+Welcome back Brian McGee.
+
+Regular Listener Menu.
+Please make a choice from the menu below.
+1. See my details.
+2. Change my password.
+3. View all podcasts.
+4. Listen to a podcast episode.
+5. Provide feedback on a podcast episode.
+6. Log out.
+Please enter a choice between 1 and 6:
+Displaying podcasts for Brian McGee to listen to.
+Num  Name                     Podcaster           Subscribers    
+1.   Building Better Code     Cody Coder          0              
+2.   Creating Middle Earth    Peter Jackson       0              
+3.   He's a menace            J. Jonah Jameson    0              
+4.   Luthor: Man or Monster   Lois Lane           0              
+5.   Towards 2032             Bruce McAvaney      0              
+6.   Worldwide Music          DJ Cash             0              
+Please enter the podcast's menu number to view more information or enter 0 to cancel:
+Podcast Information.
+Name: Building Better Code
+Podcaster: Cody Coder
+Podcast description: Learn techniques to help you build efficient, maintainable and sustainable code.
+List of episodes.
+Num  Name                          Recorded Date  Length (min)   Premium Only   Description                   
+1.   Hello World                   01/04/2026     90             False          The first and most important lesson about coding.
+Please enter the episode's menu number to listen to the episode or enter 0 to cancel:
+Please enter the date in dd/MM/yyyy format that you listened to the episode:
+Please enter how many minutes you listened to the episode:
+Congratulations Brian McGee. You have finished the episode Hello World.
+
+Regular Listener Menu.
+Please make a choice from the menu below.
+1. See my details.
+2. Change my password.
+3. View all podcasts.
+4. Listen to a podcast episode.
+5. Provide feedback on a podcast episode.
+6. Log out.
+Please enter a choice between 1 and 6:
+Displaying potential podcasts for Brian McGee to provide feedback on.
+Num  Name                     Podcaster           Subscribers    
+1.   Building Better Code     Cody Coder          0              
+2.   Creating Middle Earth    Peter Jackson       0              
+3.   He's a menace            J. Jonah Jameson    0              
+4.   Luthor: Man or Monster   Lois Lane           0              
+5.   Towards 2032             Bruce McAvaney      0              
+6.   Worldwide Music          DJ Cash             0              
+Please enter the podcast's menu number to view more information or enter 0 to cancel:
+List of episodes.
+Num  Name                          Recorded Date  Length (min)   Premium Only   Description                   
+1.   Hello World                   01/04/2026     90             False          The first and most important lesson about coding.
+Please enter the episode's menu number to provide feedback or 0 to cancel:
+Do you give the episode a thumbs-up (true) or a thumbs-down (false) rating:
+Please enter some text feedback about the episode:
+
+Regular Listener Menu.
+Please make a choice from the menu below.
+1. See my details.
+2. Change my password.
+3. View all podcasts.
+4. Listen to a podcast episode.
+5. Provide feedback on a podcast episode.
+6. Log out.
+Please enter a choice between 1 and 6:
+Displaying podcasts for Brian McGee to listen to.
+Num  Name                     Podcaster           Subscribers    
+1.   Building Better Code     Cody Coder          0              
+2.   Creating Middle Earth    Peter Jackson       0              
+3.   He's a menace            J. Jonah Jameson    0              
+4.   Luthor: Man or Monster   Lois Lane           0              
+5.   Towards 2032             Bruce McAvaney      0              
+6.   Worldwide Music          DJ Cash             0              
+Please enter the podcast's menu number to view more information or enter 0 to cancel:
+Podcast Information.
+Name: Creating Middle Earth
+Podcaster: Peter Jackson
+Podcast description: A BYO guide to building your very own middle earth.
+List of episodes.
+Num  Name                          Recorded Date  Length (min)   Premium Only   Description                   
+1.   Hobbiton                      06/06/2026     300            False          Creating a village of half-lings in your own backyard.
+Please enter the episode's menu number to listen to the episode or enter 0 to cancel:
+Please enter the date in dd/MM/yyyy format that you listened to the episode:
+Please enter how many minutes you listened to the episode:
+Congratulations Brian McGee. You have finished the episode Hobbiton.
+
+Regular Listener Menu.
+Please make a choice from the menu below.
+1. See my details.
+2. Change my password.
+3. View all podcasts.
+4. Listen to a podcast episode.
+5. Provide feedback on a podcast episode.
+6. Log out.
+Please enter a choice between 1 and 6:
+Displaying potential podcasts for Brian McGee to provide feedback on.
+Num  Name                     Podcaster           Subscribers    
+1.   Building Better Code     Cody Coder          0              
+2.   Creating Middle Earth    Peter Jackson       0              
+3.   He's a menace            J. Jonah Jameson    0              
+4.   Luthor: Man or Monster   Lois Lane           0              
+5.   Towards 2032             Bruce McAvaney      0              
+6.   Worldwide Music          DJ Cash             0              
+Please enter the podcast's menu number to view more information or enter 0 to cancel:
+List of episodes.
+Num  Name                          Recorded Date  Length (min)   Premium Only   Description                   
+1.   Hobbiton                      06/06/2026     300            False          Creating a village of half-lings in your own backyard.
+Please enter the episode's menu number to provide feedback or 0 to cancel:
+Do you give the episode a thumbs-up (true) or a thumbs-down (false) rating:
+Please enter some text feedback about the episode:
+
+Regular Listener Menu.
+Please make a choice from the menu below.
+1. See my details.
+2. Change my password.
+3. View all podcasts.
+4. Listen to a podcast episode.
+5. Provide feedback on a podcast episode.
+6. Log out.
+Please enter a choice between 1 and 6:
+Displaying podcasts for Brian McGee to listen to.
+Num  Name                     Podcaster           Subscribers    
+1.   Building Better Code     Cody Coder          0              
+2.   Creating Middle Earth    Peter Jackson       0              
+3.   He's a menace            J. Jonah Jameson    0              
+4.   Luthor: Man or Monster   Lois Lane           0              
+5.   Towards 2032             Bruce McAvaney      0              
+6.   Worldwide Music          DJ Cash             0              
+Please enter the podcast's menu number to view more information or enter 0 to cancel:
+Podcast Information.
+Name: He's a menace
+Podcaster: J. Jonah Jameson
+Podcast description: Understanding the menace that is Spider-Man.
+List of episodes.
+Num  Name                          Recorded Date  Length (min)   Premium Only   Description                   
+1.   Brooklyn Crimes in July       01/08/2026     1              False          A report om the number of crimes that have been committed in July because of Spider-Man.
+Please enter the episode's menu number to listen to the episode or enter 0 to cancel:
+Please enter the date in dd/MM/yyyy format that you listened to the episode:
+Please enter how many minutes you listened to the episode:
+Congratulations Brian McGee. You have finished the episode Brooklyn Crimes in July.
+
+Regular Listener Menu.
+Please make a choice from the menu below.
+1. See my details.
+2. Change my password.
+3. View all podcasts.
+4. Listen to a podcast episode.
+5. Provide feedback on a podcast episode.
+6. Log out.
+Please enter a choice between 1 and 6:
+Displaying potential podcasts for Brian McGee to provide feedback on.
+Num  Name                     Podcaster           Subscribers    
+1.   Building Better Code     Cody Coder          0              
+2.   Creating Middle Earth    Peter Jackson       0              
+3.   He's a menace            J. Jonah Jameson    0              
+4.   Luthor: Man or Monster   Lois Lane           0              
+5.   Towards 2032             Bruce McAvaney      0              
+6.   Worldwide Music          DJ Cash             0              
+Please enter the podcast's menu number to view more information or enter 0 to cancel:
+List of episodes.
+Num  Name                          Recorded Date  Length (min)   Premium Only   Description                   
+1.   Brooklyn Crimes in July       01/08/2026     1              False          A report om the number of crimes that have been committed in July because of Spider-Man.
+Please enter the episode's menu number to provide feedback or 0 to cancel:
+Do you give the episode a thumbs-up (true) or a thumbs-down (false) rating:
+Please enter some text feedback about the episode:
+
+Regular Listener Menu.
+Please make a choice from the menu below.
+1. See my details.
+2. Change my password.
+3. View all podcasts.
+4. Listen to a podcast episode.
+5. Provide feedback on a podcast episode.
+6. Log out.
+Please enter a choice between 1 and 6:
+Displaying podcasts for Brian McGee to listen to.
+Num  Name                     Podcaster           Subscribers    
+1.   Building Better Code     Cody Coder          0              
+2.   Creating Middle Earth    Peter Jackson       0              
+3.   He's a menace            J. Jonah Jameson    0              
+4.   Luthor: Man or Monster   Lois Lane           0              
+5.   Towards 2032             Bruce McAvaney      0              
+6.   Worldwide Music          DJ Cash             0              
+Please enter the podcast's menu number to view more information or enter 0 to cancel:
+Podcast Information.
+Name: Luthor: Man or Monster
+Podcaster: Lois Lane
+Podcast description: A comprehensive look at the millionaire who wants to be the President of the USA.
+List of episodes.
+Num  Name                          Recorded Date  Length (min)   Premium Only   Description                   
+1.   Smallville                    01/10/2026     130            False          Growing up, Lex Luthor spent time in Smallville. How did this influence the man he became?
+Please enter the episode's menu number to listen to the episode or enter 0 to cancel:
+Please enter the date in dd/MM/yyyy format that you listened to the episode:
+Please enter how many minutes you listened to the episode:
+Congratulations Brian McGee. You have finished the episode Smallville.
+
+Regular Listener Menu.
+Please make a choice from the menu below.
+1. See my details.
+2. Change my password.
+3. View all podcasts.
+4. Listen to a podcast episode.
+5. Provide feedback on a podcast episode.
+6. Log out.
+Please enter a choice between 1 and 6:
+Displaying potential podcasts for Brian McGee to provide feedback on.
+Num  Name                     Podcaster           Subscribers    
+1.   Building Better Code     Cody Coder          0              
+2.   Creating Middle Earth    Peter Jackson       0              
+3.   He's a menace            J. Jonah Jameson    0              
+4.   Luthor: Man or Monster   Lois Lane           0              
+5.   Towards 2032             Bruce McAvaney      0              
+6.   Worldwide Music          DJ Cash             0              
+Please enter the podcast's menu number to view more information or enter 0 to cancel:
+List of episodes.
+Num  Name                          Recorded Date  Length (min)   Premium Only   Description                   
+1.   Smallville                    01/10/2026     130            False          Growing up, Lex Luthor spent time in Smallville. How did this influence the man he became?
+Please enter the episode's menu number to provide feedback or 0 to cancel:
+Do you give the episode a thumbs-up (true) or a thumbs-down (false) rating:
+Please enter some text feedback about the episode:
+
+Regular Listener Menu.
+Please make a choice from the menu below.
+1. See my details.
+2. Change my password.
+3. View all podcasts.
+4. Listen to a podcast episode.
+5. Provide feedback on a podcast episode.
+6. Log out.
+Please enter a choice between 1 and 6:
+Displaying podcasts for Brian McGee to listen to.
+Num  Name                     Podcaster           Subscribers    
+1.   Building Better Code     Cody Coder          0              
+2.   Creating Middle Earth    Peter Jackson       0              
+3.   He's a menace            J. Jonah Jameson    0              
+4.   Luthor: Man or Monster   Lois Lane           0              
+5.   Towards 2032             Bruce McAvaney      0              
+6.   Worldwide Music          DJ Cash             0              
+Please enter the podcast's menu number to view more information or enter 0 to cancel:
+Podcast Information.
+Name: Towards 2032
+Podcaster: Bruce McAvaney
+Podcast description: A discussion about the future heroes and villains for the Brisbane 2032 Games.
+List of episodes.
+Num  Name                          Recorded Date  Length (min)   Premium Only   Description                   
+1.   The Stadium                   01/01/2026     60             False          Which is the best place for the next Brisbane stadium?
+Please enter the episode's menu number to listen to the episode or enter 0 to cancel:
+Please enter the date in dd/MM/yyyy format that you listened to the episode:
+Please enter how many minutes you listened to the episode:
+Congratulations Brian McGee. You have finished the episode The Stadium.
+
+Regular Listener Menu.
+Please make a choice from the menu below.
+1. See my details.
+2. Change my password.
+3. View all podcasts.
+4. Listen to a podcast episode.
+5. Provide feedback on a podcast episode.
+6. Log out.
+Please enter a choice between 1 and 6:
+Displaying potential podcasts for Brian McGee to provide feedback on.
+Num  Name                     Podcaster           Subscribers    
+1.   Building Better Code     Cody Coder          0              
+2.   Creating Middle Earth    Peter Jackson       0              
+3.   He's a menace            J. Jonah Jameson    0              
+4.   Luthor: Man or Monster   Lois Lane           0              
+5.   Towards 2032             Bruce McAvaney      0              
+6.   Worldwide Music          DJ Cash             0              
+Please enter the podcast's menu number to view more information or enter 0 to cancel:
+List of episodes.
+Num  Name                          Recorded Date  Length (min)   Premium Only   Description                   
+1.   The Stadium                   01/01/2026     60             False          Which is the best place for the next Brisbane stadium?
+Please enter the episode's menu number to provide feedback or 0 to cancel:
+Do you give the episode a thumbs-up (true) or a thumbs-down (false) rating:
+Please enter some text feedback about the episode:
+
+Regular Listener Menu.
+Please make a choice from the menu below.
+1. See my details.
+2. Change my password.
+3. View all podcasts.
+4. Listen to a podcast episode.
+5. Provide feedback on a podcast episode.
+6. Log out.
+Please enter a choice between 1 and 6:
+Displaying podcasts for Brian McGee to listen to.
+Num  Name                     Podcaster           Subscribers    
+1.   Building Better Code     Cody Coder          0              
+2.   Creating Middle Earth    Peter Jackson       0              
+3.   He's a menace            J. Jonah Jameson    0              
+4.   Luthor: Man or Monster   Lois Lane           0              
+5.   Towards 2032             Bruce McAvaney      0              
+6.   Worldwide Music          DJ Cash             0              
+Please enter the podcast's menu number to view more information or enter 0 to cancel:
+Podcast Information.
+Name: Worldwide Music
+Podcaster: DJ Cash
+Podcast description: The latest and greatest music from around the world.
+List of episodes.
+Num  Name                          Recorded Date  Length (min)   Premium Only   Description                   
+1.   Millennial Memorables         30/01/2026     120            False          A nostalgic look back at music from the 2000s and 2010s.
+Please enter the episode's menu number to listen to the episode or enter 0 to cancel:
+Please enter the date in dd/MM/yyyy format that you listened to the episode:
+Please enter how many minutes you listened to the episode:
+Congratulations Brian McGee. You have finished the episode Millennial Memorables.
+
+Regular Listener Menu.
+Please make a choice from the menu below.
+1. See my details.
+2. Change my password.
+3. View all podcasts.
+4. Listen to a podcast episode.
+5. Provide feedback on a podcast episode.
+6. Log out.
+Please enter a choice between 1 and 6:
+Displaying potential podcasts for Brian McGee to provide feedback on.
+Num  Name                     Podcaster           Subscribers    
+1.   Building Better Code     Cody Coder          0              
+2.   Creating Middle Earth    Peter Jackson       0              
+3.   He's a menace            J. Jonah Jameson    0              
+4.   Luthor: Man or Monster   Lois Lane           0              
+5.   Towards 2032             Bruce McAvaney      0              
+6.   Worldwide Music          DJ Cash             0              
+Please enter the podcast's menu number to view more information or enter 0 to cancel:
+List of episodes.
+Num  Name                          Recorded Date  Length (min)   Premium Only   Description                   
+1.   Millennial Memorables         30/01/2026     120            False          A nostalgic look back at music from the 2000s and 2010s.
+Please enter the episode's menu number to provide feedback or 0 to cancel:
+Do you give the episode a thumbs-up (true) or a thumbs-down (false) rating:
+Please enter some text feedback about the episode:
+
+Regular Listener Menu.
+Please make a choice from the menu below.
+1. See my details.
+2. Change my password.
+3. View all podcasts.
+4. Listen to a podcast episode.
+5. Provide feedback on a podcast episode.
+6. Log out.
+Please enter a choice between 1 and 6:
+
+Main Menu.
+Please make a choice from the menu below.
+1. Log in as a registered user.
+2. Register as a new user.
+3. Exit.
+Please enter a choice between 1 and 3:
+
+Registration Menu.
+Please enter your user type.
+1. A regular listener.
+2. A premium listener.
+3. A podcaster.
+Please enter a choice between 1 and 3:
+Registering as a regular listener.
+Please enter your name:
+Please enter your age between 18 and 99:
+Please enter your mobile number:
+Please enter your email:
+Please enter your password:
+Your password must:
+- be at least 8 characters long
+- contain a number
+- contain a lowercase letter
+- contain an uppercase letter
+Congratulations Larry Listener. You have registered as a regular listener.
+
+Main Menu.
+Please make a choice from the menu below.
+1. Log in as a registered user.
+2. Register as a new user.
+3. Exit.
+Please enter a choice between 1 and 3:
+
+Log in Menu.
+Please enter your email:
+Please enter your password:
+Welcome back Larry Listener.
+
+Regular Listener Menu.
+Please make a choice from the menu below.
+1. See my details.
+2. Change my password.
+3. View all podcasts.
+4. Listen to a podcast episode.
+5. Provide feedback on a podcast episode.
+6. Log out.
+Please enter a choice between 1 and 6:
+Displaying podcasts for Larry Listener to listen to.
+Num  Name                     Podcaster           Subscribers    
+1.   Building Better Code     Cody Coder          0              
+2.   Creating Middle Earth    Peter Jackson       0              
+3.   He's a menace            J. Jonah Jameson    0              
+4.   Luthor: Man or Monster   Lois Lane           0              
+5.   Towards 2032             Bruce McAvaney      0              
+6.   Worldwide Music          DJ Cash             0              
+Please enter the podcast's menu number to view more information or enter 0 to cancel:
+Podcast Information.
+Name: Building Better Code
+Podcaster: Cody Coder
+Podcast description: Learn techniques to help you build efficient, maintainable and sustainable code.
+List of episodes.
+Num  Name                          Recorded Date  Length (min)   Premium Only   Description                   
+1.   Hello World                   01/04/2026     90             False          The first and most important lesson about coding.
+Please enter the episode's menu number to listen to the episode or enter 0 to cancel:
+Please enter the date in dd/MM/yyyy format that you listened to the episode:
+Please enter how many minutes you listened to the episode:
+Congratulations Larry Listener. You have finished the episode Hello World.
+
+Regular Listener Menu.
+Please make a choice from the menu below.
+1. See my details.
+2. Change my password.
+3. View all podcasts.
+4. Listen to a podcast episode.
+5. Provide feedback on a podcast episode.
+6. Log out.
+Please enter a choice between 1 and 6:
+Displaying potential podcasts for Larry Listener to provide feedback on.
+Num  Name                     Podcaster           Subscribers    
+1.   Building Better Code     Cody Coder          0              
+2.   Creating Middle Earth    Peter Jackson       0              
+3.   He's a menace            J. Jonah Jameson    0              
+4.   Luthor: Man or Monster   Lois Lane           0              
+5.   Towards 2032             Bruce McAvaney      0              
+6.   Worldwide Music          DJ Cash             0              
+Please enter the podcast's menu number to view more information or enter 0 to cancel:
+List of episodes.
+Num  Name                          Recorded Date  Length (min)   Premium Only   Description                   
+1.   Hello World                   01/04/2026     90             False          The first and most important lesson about coding.
+Please enter the episode's menu number to provide feedback or 0 to cancel:
+Do you give the episode a thumbs-up (true) or a thumbs-down (false) rating:
+Please enter some text feedback about the episode:
+
+Regular Listener Menu.
+Please make a choice from the menu below.
+1. See my details.
+2. Change my password.
+3. View all podcasts.
+4. Listen to a podcast episode.
+5. Provide feedback on a podcast episode.
+6. Log out.
+Please enter a choice between 1 and 6:
+Displaying podcasts for Larry Listener to listen to.
+Num  Name                     Podcaster           Subscribers    
+1.   Building Better Code     Cody Coder          0              
+2.   Creating Middle Earth    Peter Jackson       0              
+3.   He's a menace            J. Jonah Jameson    0              
+4.   Luthor: Man or Monster   Lois Lane           0              
+5.   Towards 2032             Bruce McAvaney      0              
+6.   Worldwide Music          DJ Cash             0              
+Please enter the podcast's menu number to view more information or enter 0 to cancel:
+Podcast Information.
+Name: Creating Middle Earth
+Podcaster: Peter Jackson
+Podcast description: A BYO guide to building your very own middle earth.
+List of episodes.
+Num  Name                          Recorded Date  Length (min)   Premium Only   Description                   
+1.   Hobbiton                      06/06/2026     300            False          Creating a village of half-lings in your own backyard.
+Please enter the episode's menu number to listen to the episode or enter 0 to cancel:
+Please enter the date in dd/MM/yyyy format that you listened to the episode:
+Please enter how many minutes you listened to the episode:
+In total you have listened to podcast Creating Middle Earth, episode Hobbiton, for 150 minutes. The last time you listened was on 02/12/2026. You have 150 minutes remaining.
+
+Regular Listener Menu.
+Please make a choice from the menu below.
+1. See my details.
+2. Change my password.
+3. View all podcasts.
+4. Listen to a podcast episode.
+5. Provide feedback on a podcast episode.
+6. Log out.
+Please enter a choice between 1 and 6:
+Displaying podcasts for Larry Listener to listen to.
+Num  Name                     Podcaster           Subscribers    
+1.   Building Better Code     Cody Coder          0              
+2.   Creating Middle Earth    Peter Jackson       0              
+3.   He's a menace            J. Jonah Jameson    0              
+4.   Luthor: Man or Monster   Lois Lane           0              
+5.   Towards 2032             Bruce McAvaney      0              
+6.   Worldwide Music          DJ Cash             0              
+Please enter the podcast's menu number to view more information or enter 0 to cancel:
+Podcast Information.
+Name: He's a menace
+Podcaster: J. Jonah Jameson
+Podcast description: Understanding the menace that is Spider-Man.
+List of episodes.
+Num  Name                          Recorded Date  Length (min)   Premium Only   Description                   
+1.   Brooklyn Crimes in July       01/08/2026     1              False          A report om the number of crimes that have been committed in July because of Spider-Man.
+Please enter the episode's menu number to listen to the episode or enter 0 to cancel:
+Please enter the date in dd/MM/yyyy format that you listened to the episode:
+Please enter how many minutes you listened to the episode:
+Congratulations Larry Listener. You have finished the episode Brooklyn Crimes in July.
+
+Regular Listener Menu.
+Please make a choice from the menu below.
+1. See my details.
+2. Change my password.
+3. View all podcasts.
+4. Listen to a podcast episode.
+5. Provide feedback on a podcast episode.
+6. Log out.
+Please enter a choice between 1 and 6:
+Displaying potential podcasts for Larry Listener to provide feedback on.
+Num  Name                     Podcaster           Subscribers    
+1.   Building Better Code     Cody Coder          0              
+2.   Creating Middle Earth    Peter Jackson       0              
+3.   He's a menace            J. Jonah Jameson    0              
+4.   Luthor: Man or Monster   Lois Lane           0              
+5.   Towards 2032             Bruce McAvaney      0              
+6.   Worldwide Music          DJ Cash             0              
+Please enter the podcast's menu number to view more information or enter 0 to cancel:
+List of episodes.
+Num  Name                          Recorded Date  Length (min)   Premium Only   Description                   
+1.   Brooklyn Crimes in July       01/08/2026     1              False          A report om the number of crimes that have been committed in July because of Spider-Man.
+Please enter the episode's menu number to provide feedback or 0 to cancel:
+Do you give the episode a thumbs-up (true) or a thumbs-down (false) rating:
+Please enter some text feedback about the episode:
+
+Regular Listener Menu.
+Please make a choice from the menu below.
+1. See my details.
+2. Change my password.
+3. View all podcasts.
+4. Listen to a podcast episode.
+5. Provide feedback on a podcast episode.
+6. Log out.
+Please enter a choice between 1 and 6:
+
+Main Menu.
+Please make a choice from the menu below.
+1. Log in as a registered user.
+2. Register as a new user.
+3. Exit.
+Please enter a choice between 1 and 3:
+
+Registration Menu.
+Please enter your user type.
+1. A regular listener.
+2. A premium listener.
+3. A podcaster.
+Please enter a choice between 1 and 3:
+Registering as a regular listener.
+Please enter your name:
+Please enter your age between 18 and 99:
+Please enter your mobile number:
+Please enter your email:
+Please enter your password:
+Your password must:
+- be at least 8 characters long
+- contain a number
+- contain a lowercase letter
+- contain an uppercase letter
+Congratulations Granny Smith. You have registered as a regular listener.
+
+Main Menu.
+Please make a choice from the menu below.
+1. Log in as a registered user.
+2. Register as a new user.
+3. Exit.
+Please enter a choice between 1 and 3:
+
+Log in Menu.
+Please enter your email:
+Please enter your password:
+Welcome back Granny Smith.
+
+Regular Listener Menu.
+Please make a choice from the menu below.
+1. See my details.
+2. Change my password.
+3. View all podcasts.
+4. Listen to a podcast episode.
+5. Provide feedback on a podcast episode.
+6. Log out.
+Please enter a choice between 1 and 6:
+Displaying podcasts for Granny Smith to listen to.
+Num  Name                     Podcaster           Subscribers    
+1.   Building Better Code     Cody Coder          0              
+2.   Creating Middle Earth    Peter Jackson       0              
+3.   He's a menace            J. Jonah Jameson    0              
+4.   Luthor: Man or Monster   Lois Lane           0              
+5.   Towards 2032             Bruce McAvaney      0              
+6.   Worldwide Music          DJ Cash             0              
+Please enter the podcast's menu number to view more information or enter 0 to cancel:
+Podcast Information.
+Name: Building Better Code
+Podcaster: Cody Coder
+Podcast description: Learn techniques to help you build efficient, maintainable and sustainable code.
+List of episodes.
+Num  Name                          Recorded Date  Length (min)   Premium Only   Description                   
+1.   Hello World                   01/04/2026     90             False          The first and most important lesson about coding.
+Please enter the episode's menu number to listen to the episode or enter 0 to cancel:
+Please enter the date in dd/MM/yyyy format that you listened to the episode:
+Please enter how many minutes you listened to the episode:
+Congratulations Granny Smith. You have finished the episode Hello World.
+
+Regular Listener Menu.
+Please make a choice from the menu below.
+1. See my details.
+2. Change my password.
+3. View all podcasts.
+4. Listen to a podcast episode.
+5. Provide feedback on a podcast episode.
+6. Log out.
+Please enter a choice between 1 and 6:
+Displaying potential podcasts for Granny Smith to provide feedback on.
+Num  Name                     Podcaster           Subscribers    
+1.   Building Better Code     Cody Coder          0              
+2.   Creating Middle Earth    Peter Jackson       0              
+3.   He's a menace            J. Jonah Jameson    0              
+4.   Luthor: Man or Monster   Lois Lane           0              
+5.   Towards 2032             Bruce McAvaney      0              
+6.   Worldwide Music          DJ Cash             0              
+Please enter the podcast's menu number to view more information or enter 0 to cancel:
+List of episodes.
+Num  Name                          Recorded Date  Length (min)   Premium Only   Description                   
+1.   Hello World                   01/04/2026     90             False          The first and most important lesson about coding.
+Please enter the episode's menu number to provide feedback or 0 to cancel:
+Do you give the episode a thumbs-up (true) or a thumbs-down (false) rating:
+Please enter some text feedback about the episode:
+
+Regular Listener Menu.
+Please make a choice from the menu below.
+1. See my details.
+2. Change my password.
+3. View all podcasts.
+4. Listen to a podcast episode.
+5. Provide feedback on a podcast episode.
+6. Log out.
+Please enter a choice between 1 and 6:
+Displaying podcasts for Granny Smith to listen to.
+Num  Name                     Podcaster           Subscribers    
+1.   Building Better Code     Cody Coder          0              
+2.   Creating Middle Earth    Peter Jackson       0              
+3.   He's a menace            J. Jonah Jameson    0              
+4.   Luthor: Man or Monster   Lois Lane           0              
+5.   Towards 2032             Bruce McAvaney      0              
+6.   Worldwide Music          DJ Cash             0              
+Please enter the podcast's menu number to view more information or enter 0 to cancel:
+Podcast Information.
+Name: Luthor: Man or Monster
+Podcaster: Lois Lane
+Podcast description: A comprehensive look at the millionaire who wants to be the President of the USA.
+List of episodes.
+Num  Name                          Recorded Date  Length (min)   Premium Only   Description                   
+1.   Smallville                    01/10/2026     130            False          Growing up, Lex Luthor spent time in Smallville. How did this influence the man he became?
+Please enter the episode's menu number to listen to the episode or enter 0 to cancel:
+Please enter the date in dd/MM/yyyy format that you listened to the episode:
+Please enter how many minutes you listened to the episode:
+Congratulations Granny Smith. You have finished the episode Smallville.
+
+Regular Listener Menu.
+Please make a choice from the menu below.
+1. See my details.
+2. Change my password.
+3. View all podcasts.
+4. Listen to a podcast episode.
+5. Provide feedback on a podcast episode.
+6. Log out.
+Please enter a choice between 1 and 6:
+Displaying potential podcasts for Granny Smith to provide feedback on.
+Num  Name                     Podcaster           Subscribers    
+1.   Building Better Code     Cody Coder          0              
+2.   Creating Middle Earth    Peter Jackson       0              
+3.   He's a menace            J. Jonah Jameson    0              
+4.   Luthor: Man or Monster   Lois Lane           0              
+5.   Towards 2032             Bruce McAvaney      0              
+6.   Worldwide Music          DJ Cash             0              
+Please enter the podcast's menu number to view more information or enter 0 to cancel:
+List of episodes.
+Num  Name                          Recorded Date  Length (min)   Premium Only   Description                   
+1.   Smallville                    01/10/2026     130            False          Growing up, Lex Luthor spent time in Smallville. How did this influence the man he became?
+Please enter the episode's menu number to provide feedback or 0 to cancel:
+Do you give the episode a thumbs-up (true) or a thumbs-down (false) rating:
+Please enter some text feedback about the episode:
+
+Regular Listener Menu.
+Please make a choice from the menu below.
+1. See my details.
+2. Change my password.
+3. View all podcasts.
+4. Listen to a podcast episode.
+5. Provide feedback on a podcast episode.
+6. Log out.
+Please enter a choice between 1 and 6:
+Displaying podcasts for Granny Smith to listen to.
+Num  Name                     Podcaster           Subscribers    
+1.   Building Better Code     Cody Coder          0              
+2.   Creating Middle Earth    Peter Jackson       0              
+3.   He's a menace            J. Jonah Jameson    0              
+4.   Luthor: Man or Monster   Lois Lane           0              
+5.   Towards 2032             Bruce McAvaney      0              
+6.   Worldwide Music          DJ Cash             0              
+Please enter the podcast's menu number to view more information or enter 0 to cancel:
+Podcast Information.
+Name: Towards 2032
+Podcaster: Bruce McAvaney
+Podcast description: A discussion about the future heroes and villains for the Brisbane 2032 Games.
+List of episodes.
+Num  Name                          Recorded Date  Length (min)   Premium Only   Description                   
+1.   The Stadium                   01/01/2026     60             False          Which is the best place for the next Brisbane stadium?
+Please enter the episode's menu number to listen to the episode or enter 0 to cancel:
+Please enter the date in dd/MM/yyyy format that you listened to the episode:
+Please enter how many minutes you listened to the episode:
+In total you have listened to podcast Towards 2032, episode The Stadium, for 30 minutes. The last time you listened was on 03/12/2026. You have 30 minutes remaining.
+
+Regular Listener Menu.
+Please make a choice from the menu below.
+1. See my details.
+2. Change my password.
+3. View all podcasts.
+4. Listen to a podcast episode.
+5. Provide feedback on a podcast episode.
+6. Log out.
+Please enter a choice between 1 and 6:
+
+Main Menu.
+Please make a choice from the menu below.
+1. Log in as a registered user.
+2. Register as a new user.
+3. Exit.
+Please enter a choice between 1 and 3:
+
+Registration Menu.
+Please enter your user type.
+1. A regular listener.
+2. A premium listener.
+3. A podcaster.
+Please enter a choice between 1 and 3:
+Registering as a regular listener.
+Please enter your name:
+Please enter your age between 18 and 99:
+Please enter your mobile number:
+Please enter your email:
+Please enter your password:
+Your password must:
+- be at least 8 characters long
+- contain a number
+- contain a lowercase letter
+- contain an uppercase letter
+Congratulations Homer J. Simpson. You have registered as a regular listener.
+
+Main Menu.
+Please make a choice from the menu below.
+1. Log in as a registered user.
+2. Register as a new user.
+3. Exit.
+Please enter a choice between 1 and 3:
+
+Log in Menu.
+Please enter your email:
+Please enter your password:
+Welcome back Homer J. Simpson.
+
+Regular Listener Menu.
+Please make a choice from the menu below.
+1. See my details.
+2. Change my password.
+3. View all podcasts.
+4. Listen to a podcast episode.
+5. Provide feedback on a podcast episode.
+6. Log out.
+Please enter a choice between 1 and 6:
+Displaying podcasts for Homer J. Simpson to listen to.
+Num  Name                     Podcaster           Subscribers    
+1.   Building Better Code     Cody Coder          0              
+2.   Creating Middle Earth    Peter Jackson       0              
+3.   He's a menace            J. Jonah Jameson    0              
+4.   Luthor: Man or Monster   Lois Lane           0              
+5.   Towards 2032             Bruce McAvaney      0              
+6.   Worldwide Music          DJ Cash             0              
+Please enter the podcast's menu number to view more information or enter 0 to cancel:
+Podcast Information.
+Name: Building Better Code
+Podcaster: Cody Coder
+Podcast description: Learn techniques to help you build efficient, maintainable and sustainable code.
+List of episodes.
+Num  Name                          Recorded Date  Length (min)   Premium Only   Description                   
+1.   Hello World                   01/04/2026     90             False          The first and most important lesson about coding.
+Please enter the episode's menu number to listen to the episode or enter 0 to cancel:
+Please enter the date in dd/MM/yyyy format that you listened to the episode:
+Please enter how many minutes you listened to the episode:
+Congratulations Homer J. Simpson. You have finished the episode Hello World.
+
+Regular Listener Menu.
+Please make a choice from the menu below.
+1. See my details.
+2. Change my password.
+3. View all podcasts.
+4. Listen to a podcast episode.
+5. Provide feedback on a podcast episode.
+6. Log out.
+Please enter a choice between 1 and 6:
+Displaying potential podcasts for Homer J. Simpson to provide feedback on.
+Num  Name                     Podcaster           Subscribers    
+1.   Building Better Code     Cody Coder          0              
+2.   Creating Middle Earth    Peter Jackson       0              
+3.   He's a menace            J. Jonah Jameson    0              
+4.   Luthor: Man or Monster   Lois Lane           0              
+5.   Towards 2032             Bruce McAvaney      0              
+6.   Worldwide Music          DJ Cash             0              
+Please enter the podcast's menu number to view more information or enter 0 to cancel:
+List of episodes.
+Num  Name                          Recorded Date  Length (min)   Premium Only   Description                   
+1.   Hello World                   01/04/2026     90             False          The first and most important lesson about coding.
+Please enter the episode's menu number to provide feedback or 0 to cancel:
+Do you give the episode a thumbs-up (true) or a thumbs-down (false) rating:
+Please enter some text feedback about the episode:
+
+Regular Listener Menu.
+Please make a choice from the menu below.
+1. See my details.
+2. Change my password.
+3. View all podcasts.
+4. Listen to a podcast episode.
+5. Provide feedback on a podcast episode.
+6. Log out.
+Please enter a choice between 1 and 6:
+
+Main Menu.
+Please make a choice from the menu below.
+1. Log in as a registered user.
+2. Register as a new user.
+3. Exit.
+Please enter a choice between 1 and 3:
+
+Registration Menu.
+Please enter your user type.
+1. A regular listener.
+2. A premium listener.
+3. A podcaster.
+Please enter a choice between 1 and 3:
+Registering as a premium listener.
+Please enter your name:
+Please enter your age between 18 and 99:
+Please enter your mobile number:
+Please enter your email:
+Please enter your password:
+Your password must:
+- be at least 8 characters long
+- contain a number
+- contain a lowercase letter
+- contain an uppercase letter
+Please enter the registration date in dd/MM/yyyy format:
+Please enter your pay ID between 100000 and 999999:
+Congratulations Mona Moneybags. You have registered as a premium listener.
+
+Main Menu.
+Please make a choice from the menu below.
+1. Log in as a registered user.
+2. Register as a new user.
+3. Exit.
+Please enter a choice between 1 and 3:
+
+Log in Menu.
+Please enter your email:
+Please enter your password:
+Welcome back Mona Moneybags.
+
+Premium Listener Menu.
+Please make a choice from the menu below.
+1. See my details.
+2. Change my password.
+3. View all podcasts.
+4. Listen to a podcast episode.
+5. Listen to a subscribed podcast episode.
+6. Subscribe to a podcast.
+7. Unsubscribe from a podcast.
+8. Provide feedback on a podcast episode.
+9. Log out.
+Please enter a choice between 1 and 9:
+Displaying podcasts for Mona Moneybags to listen to.
+Num  Name                     Podcaster           Subscribers    
+1.   Building Better Code     Cody Coder          0              
+2.   Creating Middle Earth    Peter Jackson       0              
+3.   He's a menace            J. Jonah Jameson    0              
+4.   Luthor: Man or Monster   Lois Lane           0              
+5.   Towards 2032             Bruce McAvaney      0              
+6.   Worldwide Music          DJ Cash             0              
+Please enter the podcast's menu number to view more information or enter 0 to cancel:
+Podcast Information.
+Name: Building Better Code
+Podcaster: Cody Coder
+Podcast description: Learn techniques to help you build efficient, maintainable and sustainable code.
+List of episodes.
+Num  Name                          Recorded Date  Length (min)   Premium Only   Description                   
+1.   Hello World                   01/04/2026     90             False          The first and most important lesson about coding.
+Please enter the episode's menu number to listen to the episode or enter 0 to cancel:
+Please enter the date in dd/MM/yyyy format that you listened to the episode:
+Please enter how many minutes you listened to the episode:
+Congratulations Mona Moneybags. You have finished the episode Hello World.
+
+Premium Listener Menu.
+Please make a choice from the menu below.
+1. See my details.
+2. Change my password.
+3. View all podcasts.
+4. Listen to a podcast episode.
+5. Listen to a subscribed podcast episode.
+6. Subscribe to a podcast.
+7. Unsubscribe from a podcast.
+8. Provide feedback on a podcast episode.
+9. Log out.
+Please enter a choice between 1 and 9:
+Displaying potential podcasts for Mona Moneybags to provide feedback on.
+Num  Name                     Podcaster           Subscribers    
+1.   Building Better Code     Cody Coder          0              
+2.   Creating Middle Earth    Peter Jackson       0              
+3.   He's a menace            J. Jonah Jameson    0              
+4.   Luthor: Man or Monster   Lois Lane           0              
+5.   Towards 2032             Bruce McAvaney      0              
+6.   Worldwide Music          DJ Cash             0              
+Please enter the podcast's menu number to view more information or enter 0 to cancel:
+List of episodes.
+Num  Name                          Recorded Date  Length (min)   Premium Only   Description                   
+1.   Hello World                   01/04/2026     90             False          The first and most important lesson about coding.
+Please enter the episode's menu number to provide feedback or 0 to cancel:
+Do you give the episode a thumbs-up (true) or a thumbs-down (false) rating:
+Please enter some text feedback about the episode:
+
+Premium Listener Menu.
+Please make a choice from the menu below.
+1. See my details.
+2. Change my password.
+3. View all podcasts.
+4. Listen to a podcast episode.
+5. Listen to a subscribed podcast episode.
+6. Subscribe to a podcast.
+7. Unsubscribe from a podcast.
+8. Provide feedback on a podcast episode.
+9. Log out.
+Please enter a choice between 1 and 9:
+Displaying podcasts for Mona Moneybags to listen to.
+Num  Name                     Podcaster           Subscribers    
+1.   Building Better Code     Cody Coder          0              
+2.   Creating Middle Earth    Peter Jackson       0              
+3.   He's a menace            J. Jonah Jameson    0              
+4.   Luthor: Man or Monster   Lois Lane           0              
+5.   Towards 2032             Bruce McAvaney      0              
+6.   Worldwide Music          DJ Cash             0              
+Please enter the podcast's menu number to view more information or enter 0 to cancel:
+Podcast Information.
+Name: Luthor: Man or Monster
+Podcaster: Lois Lane
+Podcast description: A comprehensive look at the millionaire who wants to be the President of the USA.
+List of episodes.
+Num  Name                          Recorded Date  Length (min)   Premium Only   Description                   
+1.   Smallville                    01/10/2026     130            False          Growing up, Lex Luthor spent time in Smallville. How did this influence the man he became?
+Please enter the episode's menu number to listen to the episode or enter 0 to cancel:
+Please enter the date in dd/MM/yyyy format that you listened to the episode:
+Please enter how many minutes you listened to the episode:
+In total you have listened to podcast Luthor: Man or Monster, episode Smallville, for 60 minutes. The last time you listened was on 05/12/2026. You have 70 minutes remaining.
+
+Premium Listener Menu.
+Please make a choice from the menu below.
+1. See my details.
+2. Change my password.
+3. View all podcasts.
+4. Listen to a podcast episode.
+5. Listen to a subscribed podcast episode.
+6. Subscribe to a podcast.
+7. Unsubscribe from a podcast.
+8. Provide feedback on a podcast episode.
+9. Log out.
+Please enter a choice between 1 and 9:
+Displaying podcasts for Mona Moneybags to listen to.
+Num  Name                     Podcaster           Subscribers    
+1.   Building Better Code     Cody Coder          0              
+2.   Creating Middle Earth    Peter Jackson       0              
+3.   He's a menace            J. Jonah Jameson    0              
+4.   Luthor: Man or Monster   Lois Lane           0              
+5.   Towards 2032             Bruce McAvaney      0              
+6.   Worldwide Music          DJ Cash             0              
+Please enter the podcast's menu number to view more information or enter 0 to cancel:
+Podcast Information.
+Name: Towards 2032
+Podcaster: Bruce McAvaney
+Podcast description: A discussion about the future heroes and villains for the Brisbane 2032 Games.
+List of episodes.
+Num  Name                          Recorded Date  Length (min)   Premium Only   Description                   
+1.   The Stadium                   01/01/2026     60             False          Which is the best place for the next Brisbane stadium?
+Please enter the episode's menu number to listen to the episode or enter 0 to cancel:
+Please enter the date in dd/MM/yyyy format that you listened to the episode:
+Please enter how many minutes you listened to the episode:
+In total you have listened to podcast Towards 2032, episode The Stadium, for 30 minutes. The last time you listened was on 05/12/2026. You have 30 minutes remaining.
+
+Premium Listener Menu.
+Please make a choice from the menu below.
+1. See my details.
+2. Change my password.
+3. View all podcasts.
+4. Listen to a podcast episode.
+5. Listen to a subscribed podcast episode.
+6. Subscribe to a podcast.
+7. Unsubscribe from a podcast.
+8. Provide feedback on a podcast episode.
+9. Log out.
+Please enter a choice between 1 and 9:
+
+Main Menu.
+Please make a choice from the menu below.
+1. Log in as a registered user.
+2. Register as a new user.
+3. Exit.
+Please enter a choice between 1 and 3:
+
+Registration Menu.
+Please enter your user type.
+1. A regular listener.
+2. A premium listener.
+3. A podcaster.
+Please enter a choice between 1 and 3:
+Registering as a premium listener.
+Please enter your name:
+Please enter your age between 18 and 99:
+Please enter your mobile number:
+Please enter your email:
+Please enter your password:
+Your password must:
+- be at least 8 characters long
+- contain a number
+- contain a lowercase letter
+- contain an uppercase letter
+Please enter the registration date in dd/MM/yyyy format:
+Please enter your pay ID between 100000 and 999999:
+Congratulations Jack Lewis. You have registered as a premium listener.
+
+Main Menu.
+Please make a choice from the menu below.
+1. Log in as a registered user.
+2. Register as a new user.
+3. Exit.
+Please enter a choice between 1 and 3:
+
+Log in Menu.
+Please enter your email:
+Please enter your password:
+Welcome back Jack Lewis.
+
+Premium Listener Menu.
+Please make a choice from the menu below.
+1. See my details.
+2. Change my password.
+3. View all podcasts.
+4. Listen to a podcast episode.
+5. Listen to a subscribed podcast episode.
+6. Subscribe to a podcast.
+7. Unsubscribe from a podcast.
+8. Provide feedback on a podcast episode.
+9. Log out.
+Please enter a choice between 1 and 9:
+Displaying podcasts for Jack Lewis to listen to.
+Num  Name                     Podcaster           Subscribers    
+1.   Building Better Code     Cody Coder          0              
+2.   Creating Middle Earth    Peter Jackson       0              
+3.   He's a menace            J. Jonah Jameson    0              
+4.   Luthor: Man or Monster   Lois Lane           0              
+5.   Towards 2032             Bruce McAvaney      0              
+6.   Worldwide Music          DJ Cash             0              
+Please enter the podcast's menu number to view more information or enter 0 to cancel:
+Podcast Information.
+Name: Building Better Code
+Podcaster: Cody Coder
+Podcast description: Learn techniques to help you build efficient, maintainable and sustainable code.
+List of episodes.
+Num  Name                          Recorded Date  Length (min)   Premium Only   Description                   
+1.   Hello World                   01/04/2026     90             False          The first and most important lesson about coding.
+Please enter the episode's menu number to listen to the episode or enter 0 to cancel:
+Please enter the date in dd/MM/yyyy format that you listened to the episode:
+Please enter how many minutes you listened to the episode:
+Congratulations Jack Lewis. You have finished the episode Hello World.
+
+Premium Listener Menu.
+Please make a choice from the menu below.
+1. See my details.
+2. Change my password.
+3. View all podcasts.
+4. Listen to a podcast episode.
+5. Listen to a subscribed podcast episode.
+6. Subscribe to a podcast.
+7. Unsubscribe from a podcast.
+8. Provide feedback on a podcast episode.
+9. Log out.
+Please enter a choice between 1 and 9:
+Displaying potential podcasts for Jack Lewis to provide feedback on.
+Num  Name                     Podcaster           Subscribers    
+1.   Building Better Code     Cody Coder          0              
+2.   Creating Middle Earth    Peter Jackson       0              
+3.   He's a menace            J. Jonah Jameson    0              
+4.   Luthor: Man or Monster   Lois Lane           0              
+5.   Towards 2032             Bruce McAvaney      0              
+6.   Worldwide Music          DJ Cash             0              
+Please enter the podcast's menu number to view more information or enter 0 to cancel:
+List of episodes.
+Num  Name                          Recorded Date  Length (min)   Premium Only   Description                   
+1.   Hello World                   01/04/2026     90             False          The first and most important lesson about coding.
+Please enter the episode's menu number to provide feedback or 0 to cancel:
+Do you give the episode a thumbs-up (true) or a thumbs-down (false) rating:
+Please enter some text feedback about the episode:
+
+Premium Listener Menu.
+Please make a choice from the menu below.
+1. See my details.
+2. Change my password.
+3. View all podcasts.
+4. Listen to a podcast episode.
+5. Listen to a subscribed podcast episode.
+6. Subscribe to a podcast.
+7. Unsubscribe from a podcast.
+8. Provide feedback on a podcast episode.
+9. Log out.
+Please enter a choice between 1 and 9:
+Displaying podcasts for Jack Lewis to listen to.
+Num  Name                     Podcaster           Subscribers    
+1.   Building Better Code     Cody Coder          0              
+2.   Creating Middle Earth    Peter Jackson       0              
+3.   He's a menace            J. Jonah Jameson    0              
+4.   Luthor: Man or Monster   Lois Lane           0              
+5.   Towards 2032             Bruce McAvaney      0              
+6.   Worldwide Music          DJ Cash             0              
+Please enter the podcast's menu number to view more information or enter 0 to cancel:
+Podcast Information.
+Name: He's a menace
+Podcaster: J. Jonah Jameson
+Podcast description: Understanding the menace that is Spider-Man.
+List of episodes.
+Num  Name                          Recorded Date  Length (min)   Premium Only   Description                   
+1.   Brooklyn Crimes in July       01/08/2026     1              False          A report om the number of crimes that have been committed in July because of Spider-Man.
+Please enter the episode's menu number to listen to the episode or enter 0 to cancel:
+Please enter the date in dd/MM/yyyy format that you listened to the episode:
+Please enter how many minutes you listened to the episode:
+Congratulations Jack Lewis. You have finished the episode Brooklyn Crimes in July.
+
+Premium Listener Menu.
+Please make a choice from the menu below.
+1. See my details.
+2. Change my password.
+3. View all podcasts.
+4. Listen to a podcast episode.
+5. Listen to a subscribed podcast episode.
+6. Subscribe to a podcast.
+7. Unsubscribe from a podcast.
+8. Provide feedback on a podcast episode.
+9. Log out.
+Please enter a choice between 1 and 9:
+Displaying potential podcasts for Jack Lewis to provide feedback on.
+Num  Name                     Podcaster           Subscribers    
+1.   Building Better Code     Cody Coder          0              
+2.   Creating Middle Earth    Peter Jackson       0              
+3.   He's a menace            J. Jonah Jameson    0              
+4.   Luthor: Man or Monster   Lois Lane           0              
+5.   Towards 2032             Bruce McAvaney      0              
+6.   Worldwide Music          DJ Cash             0              
+Please enter the podcast's menu number to view more information or enter 0 to cancel:
+List of episodes.
+Num  Name                          Recorded Date  Length (min)   Premium Only   Description                   
+1.   Brooklyn Crimes in July       01/08/2026     1              False          A report om the number of crimes that have been committed in July because of Spider-Man.
+Please enter the episode's menu number to provide feedback or 0 to cancel:
+Do you give the episode a thumbs-up (true) or a thumbs-down (false) rating:
+Please enter some text feedback about the episode:
+
+Premium Listener Menu.
+Please make a choice from the menu below.
+1. See my details.
+2. Change my password.
+3. View all podcasts.
+4. Listen to a podcast episode.
+5. Listen to a subscribed podcast episode.
+6. Subscribe to a podcast.
+7. Unsubscribe from a podcast.
+8. Provide feedback on a podcast episode.
+9. Log out.
+Please enter a choice between 1 and 9:
+Displaying podcasts for Jack Lewis to listen to.
+Num  Name                     Podcaster           Subscribers    
+1.   Building Better Code     Cody Coder          0              
+2.   Creating Middle Earth    Peter Jackson       0              
+3.   He's a menace            J. Jonah Jameson    0              
+4.   Luthor: Man or Monster   Lois Lane           0              
+5.   Towards 2032             Bruce McAvaney      0              
+6.   Worldwide Music          DJ Cash             0              
+Please enter the podcast's menu number to view more information or enter 0 to cancel:
+Podcast Information.
+Name: Towards 2032
+Podcaster: Bruce McAvaney
+Podcast description: A discussion about the future heroes and villains for the Brisbane 2032 Games.
+List of episodes.
+Num  Name                          Recorded Date  Length (min)   Premium Only   Description                   
+1.   The Stadium                   01/01/2026     60             False          Which is the best place for the next Brisbane stadium?
+Please enter the episode's menu number to listen to the episode or enter 0 to cancel:
+Please enter the date in dd/MM/yyyy format that you listened to the episode:
+Please enter how many minutes you listened to the episode:
+In total you have listened to podcast Towards 2032, episode The Stadium, for 30 minutes. The last time you listened was on 06/12/2026. You have 30 minutes remaining.
+
+Premium Listener Menu.
+Please make a choice from the menu below.
+1. See my details.
+2. Change my password.
+3. View all podcasts.
+4. Listen to a podcast episode.
+5. Listen to a subscribed podcast episode.
+6. Subscribe to a podcast.
+7. Unsubscribe from a podcast.
+8. Provide feedback on a podcast episode.
+9. Log out.
+Please enter a choice between 1 and 9:
+
+Main Menu.
+Please make a choice from the menu below.
+1. Log in as a registered user.
+2. Register as a new user.
+3. Exit.
+Please enter a choice between 1 and 3:
+
+Log in Menu.
+Please enter your email:
+Please enter your password:
+Welcome back Cody Coder.
+
+Podcaster Menu.
+Please make a choice from the menu below.
+1. See my details.
+2. Change my password.
+3. Create an episode.
+4. View my episodes.
+5. View statistics about my episodes.
+6. View feedback about my episodes.
+7. Log out.
+Please enter a choice between 1 and 7:
+Statistics about your episodes.
+Num  Name                          Listeners Started   Listeners Completed 
+1.   Hello World                   6                   6                   
+
+Podcaster Menu.
+Please make a choice from the menu below.
+1. See my details.
+2. Change my password.
+3. Create an episode.
+4. View my episodes.
+5. View statistics about my episodes.
+6. View feedback about my episodes.
+7. Log out.
+Please enter a choice between 1 and 7:
+Feedback about your episodes.
+Num  Name                          Thumbs Up           
+1.   Hello World                   3                   
+Please enter the episode's menu number to view the text feedback or enter 0 to cancel:
+Listener 1: This was an enlightening episode. I will take my new knowledge and spread it all over the world.
+Listener 2: I tried to get into this but couldn't. I just want something about vibe coding.
+Listener 3: This will help me keep up-to-date with the grandkids on ticky tok.
+Listener 4: What's a computer? Stupid Flanders.
+Listener 5: Who needs software developers anymore? I'm just going to sack my staff and replace them with AI.
+Listener 6: Thank you Cody. This episode was very useful because I need to protect my crocodiles from killer robots.
+
+Podcaster Menu.
+Please make a choice from the menu below.
+1. See my details.
+2. Change my password.
+3. Create an episode.
+4. View my episodes.
+5. View statistics about my episodes.
+6. View feedback about my episodes.
+7. Log out.
+Please enter a choice between 1 and 7:
+
+Main Menu.
+Please make a choice from the menu below.
+1. Log in as a registered user.
+2. Register as a new user.
+3. Exit.
+Please enter a choice between 1 and 3:
+
+Log in Menu.
+Please enter your email:
+Please enter your password:
+Welcome back Peter Jackson.
+
+Podcaster Menu.
+Please make a choice from the menu below.
+1. See my details.
+2. Change my password.
+3. Create an episode.
+4. View my episodes.
+5. View statistics about my episodes.
+6. View feedback about my episodes.
+7. Log out.
+Please enter a choice between 1 and 7:
+Statistics about your episodes.
+Num  Name                          Listeners Started   Listeners Completed 
+1.   Hobbiton                      2                   1                   
+
+Podcaster Menu.
+Please make a choice from the menu below.
+1. See my details.
+2. Change my password.
+3. Create an episode.
+4. View my episodes.
+5. View statistics about my episodes.
+6. View feedback about my episodes.
+7. Log out.
+Please enter a choice between 1 and 7:
+Feedback about your episodes.
+Num  Name                          Thumbs Up           
+1.   Hobbiton                      0                   
+Please enter the episode's menu number to view the text feedback or enter 0 to cancel:
+Listener 1: This looked interesting, but it was very long and was not true to the instruction book.
+
+Podcaster Menu.
+Please make a choice from the menu below.
+1. See my details.
+2. Change my password.
+3. Create an episode.
+4. View my episodes.
+5. View statistics about my episodes.
+6. View feedback about my episodes.
+7. Log out.
+Please enter a choice between 1 and 7:
+
+Main Menu.
+Please make a choice from the menu below.
+1. Log in as a registered user.
+2. Register as a new user.
+3. Exit.
+Please enter a choice between 1 and 3:
+
+Log in Menu.
+Please enter your email:
+Please enter your password:
+Welcome back J. Jonah Jameson.
+
+Podcaster Menu.
+Please make a choice from the menu below.
+1. See my details.
+2. Change my password.
+3. Create an episode.
+4. View my episodes.
+5. View statistics about my episodes.
+6. View feedback about my episodes.
+7. Log out.
+Please enter a choice between 1 and 7:
+Statistics about your episodes.
+Num  Name                          Listeners Started   Listeners Completed 
+1.   Brooklyn Crimes in July       3                   3                   
+
+Podcaster Menu.
+Please make a choice from the menu below.
+1. See my details.
+2. Change my password.
+3. Create an episode.
+4. View my episodes.
+5. View statistics about my episodes.
+6. View feedback about my episodes.
+7. Log out.
+Please enter a choice between 1 and 7:
+Feedback about your episodes.
+Num  Name                          Thumbs Up           
+1.   Brooklyn Crimes in July       1                   
+Please enter the episode's menu number to view the text feedback or enter 0 to cancel:
+Listener 1: For pete's sake, this guy needs to chill. I've met Spidey in my neighbourhood and he was very friendly.
+Listener 2: This guy speaks the truth.
+Listener 3: What a bozo.
+
+Podcaster Menu.
+Please make a choice from the menu below.
+1. See my details.
+2. Change my password.
+3. Create an episode.
+4. View my episodes.
+5. View statistics about my episodes.
+6. View feedback about my episodes.
+7. Log out.
+Please enter a choice between 1 and 7:
+
+Main Menu.
+Please make a choice from the menu below.
+1. Log in as a registered user.
+2. Register as a new user.
+3. Exit.
+Please enter a choice between 1 and 3:
+
+Log in Menu.
+Please enter your email:
+Please enter your password:
+Welcome back Lois Lane.
+
+Podcaster Menu.
+Please make a choice from the menu below.
+1. See my details.
+2. Change my password.
+3. Create an episode.
+4. View my episodes.
+5. View statistics about my episodes.
+6. View feedback about my episodes.
+7. Log out.
+Please enter a choice between 1 and 7:
+Statistics about your episodes.
+Num  Name                          Listeners Started   Listeners Completed 
+1.   Smallville                    3                   2                   
+
+Podcaster Menu.
+Please make a choice from the menu below.
+1. See my details.
+2. Change my password.
+3. Create an episode.
+4. View my episodes.
+5. View statistics about my episodes.
+6. View feedback about my episodes.
+7. Log out.
+Please enter a choice between 1 and 7:
+Feedback about your episodes.
+Num  Name                          Thumbs Up           
+1.   Smallville                    1                   
+Please enter the episode's menu number to view the text feedback or enter 0 to cancel:
+Listener 1: WOW! This Luther guys seems crazy. I hope he doesn't become president.
+Listener 2: I do not believe this. I always found Mr. Luther a lovely young man.
+
+Podcaster Menu.
+Please make a choice from the menu below.
+1. See my details.
+2. Change my password.
+3. Create an episode.
+4. View my episodes.
+5. View statistics about my episodes.
+6. View feedback about my episodes.
+7. Log out.
+Please enter a choice between 1 and 7:
+
+Main Menu.
+Please make a choice from the menu below.
+1. Log in as a registered user.
+2. Register as a new user.
+3. Exit.
+Please enter a choice between 1 and 3:
+
+Log in Menu.
+Please enter your email:
+Please enter your password:
+Welcome back Bruce McAvaney.
+
+Podcaster Menu.
+Please make a choice from the menu below.
+1. See my details.
+2. Change my password.
+3. Create an episode.
+4. View my episodes.
+5. View statistics about my episodes.
+6. View feedback about my episodes.
+7. Log out.
+Please enter a choice between 1 and 7:
+Statistics about your episodes.
+Num  Name                          Listeners Started   Listeners Completed 
+1.   The Stadium                   4                   1                   
+
+Podcaster Menu.
+Please make a choice from the menu below.
+1. See my details.
+2. Change my password.
+3. Create an episode.
+4. View my episodes.
+5. View statistics about my episodes.
+6. View feedback about my episodes.
+7. Log out.
+Please enter a choice between 1 and 7:
+Feedback about your episodes.
+Num  Name                          Thumbs Up           
+1.   The Stadium                   0                   
+Please enter the episode's menu number to view the text feedback or enter 0 to cancel:
+Listener 1: I can't believe where they are building the stadium. Imagine going to the uni next door.
+
+Podcaster Menu.
+Please make a choice from the menu below.
+1. See my details.
+2. Change my password.
+3. Create an episode.
+4. View my episodes.
+5. View statistics about my episodes.
+6. View feedback about my episodes.
+7. Log out.
+Please enter a choice between 1 and 7:
+
+Main Menu.
+Please make a choice from the menu below.
+1. Log in as a registered user.
+2. Register as a new user.
+3. Exit.
+Please enter a choice between 1 and 3:
+
+Log in Menu.
+Please enter your email:
+Please enter your password:
+Welcome back DJ Cash.
+
+Podcaster Menu.
+Please make a choice from the menu below.
+1. See my details.
+2. Change my password.
+3. Create an episode.
+4. View my episodes.
+5. View statistics about my episodes.
+6. View feedback about my episodes.
+7. Log out.
+Please enter a choice between 1 and 7:
+Statistics about your episodes.
+Num  Name                          Listeners Started   Listeners Completed 
+1.   Millennial Memorables         1                   1                   
+
+Podcaster Menu.
+Please make a choice from the menu below.
+1. See my details.
+2. Change my password.
+3. Create an episode.
+4. View my episodes.
+5. View statistics about my episodes.
+6. View feedback about my episodes.
+7. Log out.
+Please enter a choice between 1 and 7:
+Feedback about your episodes.
+Num  Name                          Thumbs Up           
+1.   Millennial Memorables         1                   
+Please enter the episode's menu number to view the text feedback or enter 0 to cancel:
+Listener 1: Good memories. You had to be there.
+
+Podcaster Menu.
+Please make a choice from the menu below.
+1. See my details.
+2. Change my password.
+3. Create an episode.
+4. View my episodes.
+5. View statistics about my episodes.
+6. View feedback about my episodes.
+7. Log out.
+Please enter a choice between 1 and 7:
+
+Main Menu.
+Please make a choice from the menu below.
+1. Log in as a registered user.
+2. Register as a new user.
+3. Exit.
+Please enter a choice between 1 and 3:
+See you on the next rotation.
