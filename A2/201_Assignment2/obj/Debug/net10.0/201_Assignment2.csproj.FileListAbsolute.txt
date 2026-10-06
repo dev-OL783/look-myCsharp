@@ -1,0 +1,14 @@
+/home/yun/dev/uni/201/Assignment/201_Assignment2/bin/Debug/net10.0/201_Assignment2
+/home/yun/dev/uni/201/Assignment/201_Assignment2/bin/Debug/net10.0/201_Assignment2.deps.json
+/home/yun/dev/uni/201/Assignment/201_Assignment2/bin/Debug/net10.0/201_Assignment2.runtimeconfig.json
+/home/yun/dev/uni/201/Assignment/201_Assignment2/bin/Debug/net10.0/201_Assignment2.dll
+/home/yun/dev/uni/201/Assignment/201_Assignment2/bin/Debug/net10.0/201_Assignment2.pdb
+/home/yun/dev/uni/201/Assignment/201_Assignment2/obj/Debug/net10.0/201_Assignment2.GeneratedMSBuildEditorConfig.editorconfig
+/home/yun/dev/uni/201/Assignment/201_Assignment2/obj/Debug/net10.0/201_Assignment2.AssemblyInfoInputs.cache
+/home/yun/dev/uni/201/Assignment/201_Assignment2/obj/Debug/net10.0/201_Assignment2.AssemblyInfo.cs
+/home/yun/dev/uni/201/Assignment/201_Assignment2/obj/Debug/net10.0/201_Assignment2.csproj.CoreCompileInputs.cache
+/home/yun/dev/uni/201/Assignment/201_Assignment2/obj/Debug/net10.0/201_Assignment2.dll
+/home/yun/dev/uni/201/Assignment/201_Assignment2/obj/Debug/net10.0/refint/201_Assignment2.dll
+/home/yun/dev/uni/201/Assignment/201_Assignment2/obj/Debug/net10.0/201_Assignment2.pdb
+/home/yun/dev/uni/201/Assignment/201_Assignment2/obj/Debug/net10.0/201_Assignment2.genruntimeconfig.cache
+/home/yun/dev/uni/201/Assignment/201_Assignment2/obj/Debug/net10.0/ref/201_Assignment2.dll
