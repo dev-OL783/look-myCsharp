@@ -3,17 +3,19 @@
     class Program
     {
         // Constants
-        const string GOODBYE = "Goodbye!";
+        const string GOODBYE = "Goodbye!"; // not useful currently
         const string PREFIX = "Please enter your ";
+
+        private static User? currentUser;  // once the program ends, user data gets wiped
         
         static void Main(string[] args)
-        {
+        {   // greeter
             Console.WriteLine("============================================");
             Console.WriteLine();
             Console.WriteLine("Welcome to PodCastWorld!");
             Console.WriteLine();
             Console.WriteLine("============================================\n");
-
+            //
             bool keepGoing = true;
 
             while (keepGoing)
@@ -26,13 +28,13 @@
                 switch (choice)
                 {
                     case "1":
-                        // TODO: Add Login handling here
+                        // UserAuthenticator.cs
                         UserLogin();
                         break;
 
                     case "2":
                         // Jump directly into the registration flow
-                        RegisterUser(); // DUMBASS WHY DID YOU PUT IN THE BLUDY CONSOLE.WRITELINE
+                        RegisterUser(); // UserValidator.cs
                         break;
 
                     case "3":
@@ -93,27 +95,116 @@
 
             // After registration you automatically return to the main menu
         }
-
-        public static void RegisterRegUser() // register users, requires Return Error.cs to do the checks
+        public static void RegisterRegUser()
         {
-            Console.WriteLine(PREFIX + "name:");
-            string name = Console.ReadLine(); // need to check for null/weird values
-            Console.WriteLine(PREFIX + "age:");
-            int age = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine(PREFIX + "email:");
-            string email = Console.ReadLine();
-            Console.WriteLine(PREFIX + "mobile number:");
-            int mobileNumber = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine(PREFIX + "password:");
-            string password = Console.ReadLine();
-        }
+            string name;
+            int age;
+            string email;
+            string mobile;
+            string password;
 
+            // NAME
+            while (true)
+            {
+                Console.WriteLine(PREFIX + "name:");
+                name = Console.ReadLine() ?? "";
+
+                if (UserValidator.IsValidName(name))
+                    break;
+
+                UserValidator.PrintNameError();
+            }
+
+            // AGE
+            while (true)
+            {
+                Console.WriteLine(PREFIX + "age:");
+
+                if (UserValidator.IsValidAge(Console.ReadLine() ?? "", out age))
+                    break;
+
+                UserValidator.PrintAgeError();
+            }
+
+            // EMAIL
+            while (true)
+            {
+                Console.WriteLine(PREFIX + "email:");
+                email = Console.ReadLine() ?? "";
+
+                if (UserValidator.IsValidEmail(email))
+                    break;
+
+                UserValidator.PrintEmailError();
+            }
+
+            // MOBILE
+            while (true)
+            {
+                Console.WriteLine(PREFIX + "mobile number:");
+                mobile = Console.ReadLine() ?? "";
+
+                if (UserValidator.IsValidMobile(mobile))
+                    break;
+
+                UserValidator.PrintMobileError();
+            }
+
+            // PASSWORD
+            while (true)
+            {
+                Console.WriteLine(PREFIX + "password:");
+                password = Console.ReadLine() ?? "";
+
+                if (UserValidator.IsValidPassword(password))
+                    break;
+
+                UserValidator.PrintPasswordError();
+            }
+
+            
+
+            // Store temporarily in memory
+            currentUser = new User(
+                name,
+                age,
+                email,
+                mobile,
+                password);
+
+            Console.WriteLine("\nRegistration successful!");
+        }
 
 
         public static void UserLogin()
         {
-            Console.WriteLine();
-            // build in draft 4
+            Console.WriteLine("\nLogin");
+
+            if (currentUser == null)
+            {
+                Console.WriteLine("No user has been registered yet.");
+                return;
+            }
+
+            Console.WriteLine("Please enter your email:");
+            string email = Console.ReadLine() ?? "";
+
+            Console.WriteLine("Please enter your password:");
+            string password = Console.ReadLine() ?? "";
+
+            bool authenticated =
+                UserAuthentication.Authenticate(currentUser, email, password);
+
+            if (authenticated)
+            {
+                Console.WriteLine($"Welcome back, {currentUser.GetName()}!");
+                
+                UserMenu();
+            }
+            else
+            {
+                Console.WriteLine("Invalid email or password.");
+            }
         }
     }
 }

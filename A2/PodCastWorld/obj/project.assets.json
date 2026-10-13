@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/yun/dev/uni/201/Assignment_Draft3/PodCastWorld/PodCastWorld.csproj",
+      "projectUniqueName": "/home/yun/dev/uni/201/Assignment_Draft6/PodCastWorld/PodCastWorld.csproj",
       "projectName": "PodCastWorld",
-      "projectPath": "/home/yun/dev/uni/201/Assignment_Draft3/PodCastWorld/PodCastWorld.csproj",
+      "projectPath": "/home/yun/dev/uni/201/Assignment_Draft6/PodCastWorld/PodCastWorld.csproj",
       "packagesPath": "/home/yun/.nuget/packages/",
-      "outputPath": "/home/yun/dev/uni/201/Assignment_Draft3/PodCastWorld/obj/",
+      "outputPath": "/home/yun/dev/uni/201/Assignment_Draft6/PodCastWorld/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/yun/.nuget/NuGet/NuGet.Config"

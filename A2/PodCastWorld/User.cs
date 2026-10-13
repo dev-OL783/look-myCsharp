@@ -1,34 +1,36 @@
 namespace PodCastWorld;
 
 /// <summary>
-/// USER CLASS: stores and makes retrievable data 
-/// 
+/// USER CLASS: stores and makes retrievable data
 /// </summary>
 public class User
 {
-    /// Add the private fields 
-    
-    /// As a user, I want to register for the application by providing my name, age, email address, mobile number, and password, so that I can create a secure account.
+    private string _name;
+    private int _age;
+    private string _email;
+    private string _mobileNumber;
+    private string _password;
 
-    string _name;
-
-    int _age;
-
-    string _email;
-
-    int _mobileNumber;
-
-    string _password;
-    // might make private later    
-    
-    public User(string name, int age, string email, int mobileNumber, string password)
+    public User(string name, int age, string email,
+                string mobileNumber, string password)
     {
-        // Initialisations
         _name = name;
         _age = age;
         _email = email;
         _mobileNumber = mobileNumber;
-        _password = password;       
-        // ...
+        _password = password;
     }
+
+    // Getters
+    public string GetName() => _name;
+    public int GetAge() => _age;
+    public string GetEmail() => _email;
+    public string GetMobileNumber() => _mobileNumber;
+    public string GetPassword() => _password;
+
+    // public void SetPassword(string password)
+    // {
+    //     Password = _password;
+    // }
 }
+
