@@ -195,11 +195,16 @@
             bool authenticated =
                 UserAuthentication.Authenticate(currentUser, email, password);
 
+            // if (authenticated)
+            // {
+            //     Console.WriteLine($"Welcome back, {currentUser.GetName()}!");
+                
+            //     UserMenu();
+            // }
             if (authenticated)
             {
                 Console.WriteLine($"Welcome back, {currentUser.GetName()}!");
-                
-                UserMenu();
+                UserMenu.Show(currentUser);
             }
             else
             {

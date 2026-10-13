@@ -53,6 +53,24 @@ public static class UserValidator
             && password.Any(char.IsLower)
             && password.Any(char.IsDigit);
     }
+    
+    public static string GetPasswordError(string password)
+    {
+        if (password.Length < 8)
+            return "Password must be at least 8 characters long.";
+
+        if (!password.Any(char.IsUpper))
+            return "Password must contain an uppercase letter.";
+
+        if (!password.Any(char.IsLower))
+            return "Password must contain a lowercase letter.";
+
+        if (!password.Any(char.IsDigit))
+            return "Password must contain a number.";
+
+        return "";
+    }
+    
 
     public static void PrintNameError()
     {
@@ -77,5 +95,6 @@ public static class UserValidator
     public static void PrintPasswordError()
     {
         Console.WriteLine("Password must contain uppercase, lowercase and a number.");
+        
     }
 }

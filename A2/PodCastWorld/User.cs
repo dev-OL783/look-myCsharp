@@ -28,9 +28,9 @@ public class User
     public string GetMobileNumber() => _mobileNumber;
     public string GetPassword() => _password;
 
-    // public void SetPassword(string password)
-    // {
-    //     Password = _password;
-    // }
+    public void SetPassword(string password)
+    {
+        _password = password;
+    }
 }
 

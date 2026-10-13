@@ -21,9 +21,30 @@ namespace PodCastWorld
                         ViewDetails(user);
                         break;
 
+                    // case "2":
+                    //     ChangePassword(user);
+                    //     break;
                     case "2":
-                        ChangePassword(user);
+                    {
+                        string newPassword;
+
+                        do
+                        {
+                            Console.Write("Enter new password: ");
+                            newPassword = Console.ReadLine() ?? "";
+
+                            if (!UserValidator.IsValidPassword(newPassword))
+                            {
+                                UserValidator.PrintPasswordError();
+                            }
+
+                        } while (!UserValidator.IsValidPassword(newPassword));
+
+                        user.SetPassword(newPassword);
+
+                        Console.WriteLine("Password changed successfully.");
                         break;
+                    }
 
                     case "3":
                         Console.WriteLine("Logging out...");
