@@ -1,0 +1,56 @@
+/home/yun/dev/uni/201/Assignment_Draft6/PodCastWorld/bin/Debug/net10.0/PodCastWorld
+/home/yun/dev/uni/201/Assignment_Draft6/PodCastWorld/bin/Debug/net10.0/PodCastWorld.deps.json
+/home/yun/dev/uni/201/Assignment_Draft6/PodCastWorld/bin/Debug/net10.0/PodCastWorld.runtimeconfig.json
+/home/yun/dev/uni/201/Assignment_Draft6/PodCastWorld/bin/Debug/net10.0/PodCastWorld.dll
+/home/yun/dev/uni/201/Assignment_Draft6/PodCastWorld/bin/Debug/net10.0/PodCastWorld.pdb
+/home/yun/dev/uni/201/Assignment_Draft6/PodCastWorld/obj/Debug/net10.0/PodCastWorld.GeneratedMSBuildEditorConfig.editorconfig
+/home/yun/dev/uni/201/Assignment_Draft6/PodCastWorld/obj/Debug/net10.0/PodCastWorld.AssemblyInfoInputs.cache
+/home/yun/dev/uni/201/Assignment_Draft6/PodCastWorld/obj/Debug/net10.0/PodCastWorld.AssemblyInfo.cs
+/home/yun/dev/uni/201/Assignment_Draft6/PodCastWorld/obj/Debug/net10.0/PodCastWorld.csproj.CoreCompileInputs.cache
+/home/yun/dev/uni/201/Assignment_Draft6/PodCastWorld/obj/Debug/net10.0/PodCastWorld.dll
+/home/yun/dev/uni/201/Assignment_Draft6/PodCastWorld/obj/Debug/net10.0/refint/PodCastWorld.dll
+/home/yun/dev/uni/201/Assignment_Draft6/PodCastWorld/obj/Debug/net10.0/PodCastWorld.pdb
+/home/yun/dev/uni/201/Assignment_Draft6/PodCastWorld/obj/Debug/net10.0/PodCastWorld.genruntimeconfig.cache
+/home/yun/dev/uni/201/Assignment_Draft6/PodCastWorld/obj/Debug/net10.0/ref/PodCastWorld.dll
+/home/yun/dev/uni/201/Assignment_Draft3/PodCastWorld/bin/Debug/net10.0/PodCastWorld
+/home/yun/dev/uni/201/Assignment_Draft3/PodCastWorld/bin/Debug/net10.0/PodCastWorld.deps.json
+/home/yun/dev/uni/201/Assignment_Draft3/PodCastWorld/bin/Debug/net10.0/PodCastWorld.runtimeconfig.json
+/home/yun/dev/uni/201/Assignment_Draft3/PodCastWorld/bin/Debug/net10.0/PodCastWorld.dll
+/home/yun/dev/uni/201/Assignment_Draft3/PodCastWorld/bin/Debug/net10.0/PodCastWorld.pdb
+/home/yun/dev/uni/201/Assignment_Draft3/PodCastWorld/obj/Debug/net10.0/PodCastWorld.GeneratedMSBuildEditorConfig.editorconfig
+/home/yun/dev/uni/201/Assignment_Draft3/PodCastWorld/obj/Debug/net10.0/PodCastWorld.AssemblyInfoInputs.cache
+/home/yun/dev/uni/201/Assignment_Draft3/PodCastWorld/obj/Debug/net10.0/PodCastWorld.AssemblyInfo.cs
+/home/yun/dev/uni/201/Assignment_Draft3/PodCastWorld/obj/Debug/net10.0/PodCastWorld.csproj.CoreCompileInputs.cache
+/home/yun/dev/uni/201/Assignment_Draft3/PodCastWorld/obj/Debug/net10.0/PodCastWorld.dll
+/home/yun/dev/uni/201/Assignment_Draft3/PodCastWorld/obj/Debug/net10.0/refint/PodCastWorld.dll
+/home/yun/dev/uni/201/Assignment_Draft3/PodCastWorld/obj/Debug/net10.0/PodCastWorld.pdb
+/home/yun/dev/uni/201/Assignment_Draft3/PodCastWorld/obj/Debug/net10.0/PodCastWorld.genruntimeconfig.cache
+/home/yun/dev/uni/201/Assignment_Draft3/PodCastWorld/obj/Debug/net10.0/ref/PodCastWorld.dll
+C:\Users\XPS13YUN\Downloads\dev\VSC\201-A2\look-myCsharp1\look-myCsharp-main\A2\PodCastWorld\bin\Debug\net10.0\PodCastWorld.exe
+C:\Users\XPS13YUN\Downloads\dev\VSC\201-A2\look-myCsharp1\look-myCsharp-main\A2\PodCastWorld\bin\Debug\net10.0\PodCastWorld.deps.json
+C:\Users\XPS13YUN\Downloads\dev\VSC\201-A2\look-myCsharp1\look-myCsharp-main\A2\PodCastWorld\bin\Debug\net10.0\PodCastWorld.runtimeconfig.json
+C:\Users\XPS13YUN\Downloads\dev\VSC\201-A2\look-myCsharp1\look-myCsharp-main\A2\PodCastWorld\bin\Debug\net10.0\PodCastWorld.dll
+C:\Users\XPS13YUN\Downloads\dev\VSC\201-A2\look-myCsharp1\look-myCsharp-main\A2\PodCastWorld\bin\Debug\net10.0\PodCastWorld.pdb
+C:\Users\XPS13YUN\Downloads\dev\VSC\201-A2\look-myCsharp1\look-myCsharp-main\A2\PodCastWorld\obj\Debug\net10.0\PodCastWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XPS13YUN\Downloads\dev\VSC\201-A2\look-myCsharp1\look-myCsharp-main\A2\PodCastWorld\obj\Debug\net10.0\PodCastWorld.AssemblyInfoInputs.cache
+C:\Users\XPS13YUN\Downloads\dev\VSC\201-A2\look-myCsharp1\look-myCsharp-main\A2\PodCastWorld\obj\Debug\net10.0\PodCastWorld.AssemblyInfo.cs
+C:\Users\XPS13YUN\Downloads\dev\VSC\201-A2\look-myCsharp1\look-myCsharp-main\A2\PodCastWorld\obj\Debug\net10.0\PodCastWorld.csproj.CoreCompileInputs.cache
+C:\Users\XPS13YUN\Downloads\dev\VSC\201-A2\look-myCsharp1\look-myCsharp-main\A2\PodCastWorld\obj\Debug\net10.0\PodCastWorld.dll
+C:\Users\XPS13YUN\Downloads\dev\VSC\201-A2\look-myCsharp1\look-myCsharp-main\A2\PodCastWorld\obj\Debug\net10.0\refint\PodCastWorld.dll
+C:\Users\XPS13YUN\Downloads\dev\VSC\201-A2\look-myCsharp1\look-myCsharp-main\A2\PodCastWorld\obj\Debug\net10.0\PodCastWorld.pdb
+C:\Users\XPS13YUN\Downloads\dev\VSC\201-A2\look-myCsharp1\look-myCsharp-main\A2\PodCastWorld\obj\Debug\net10.0\PodCastWorld.genruntimeconfig.cache
+C:\Users\XPS13YUN\Downloads\dev\VSC\201-A2\look-myCsharp1\look-myCsharp-main\A2\PodCastWorld\obj\Debug\net10.0\ref\PodCastWorld.dll
+C:\Users\XPS13YUN\Downloads\dev\VSC\201-A2\look-myCsharp2 - Copy\PodCastWorld\bin\Debug\net10.0\PodCastWorld.exe
+C:\Users\XPS13YUN\Downloads\dev\VSC\201-A2\look-myCsharp2 - Copy\PodCastWorld\bin\Debug\net10.0\PodCastWorld.deps.json
+C:\Users\XPS13YUN\Downloads\dev\VSC\201-A2\look-myCsharp2 - Copy\PodCastWorld\bin\Debug\net10.0\PodCastWorld.runtimeconfig.json
+C:\Users\XPS13YUN\Downloads\dev\VSC\201-A2\look-myCsharp2 - Copy\PodCastWorld\bin\Debug\net10.0\PodCastWorld.dll
+C:\Users\XPS13YUN\Downloads\dev\VSC\201-A2\look-myCsharp2 - Copy\PodCastWorld\bin\Debug\net10.0\PodCastWorld.pdb
+C:\Users\XPS13YUN\Downloads\dev\VSC\201-A2\look-myCsharp2 - Copy\PodCastWorld\obj\Debug\net10.0\PodCastWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XPS13YUN\Downloads\dev\VSC\201-A2\look-myCsharp2 - Copy\PodCastWorld\obj\Debug\net10.0\PodCastWorld.AssemblyInfoInputs.cache
+C:\Users\XPS13YUN\Downloads\dev\VSC\201-A2\look-myCsharp2 - Copy\PodCastWorld\obj\Debug\net10.0\PodCastWorld.AssemblyInfo.cs
+C:\Users\XPS13YUN\Downloads\dev\VSC\201-A2\look-myCsharp2 - Copy\PodCastWorld\obj\Debug\net10.0\PodCastWorld.csproj.CoreCompileInputs.cache
+C:\Users\XPS13YUN\Downloads\dev\VSC\201-A2\look-myCsharp2 - Copy\PodCastWorld\obj\Debug\net10.0\PodCastWorld.dll
+C:\Users\XPS13YUN\Downloads\dev\VSC\201-A2\look-myCsharp2 - Copy\PodCastWorld\obj\Debug\net10.0\refint\PodCastWorld.dll
+C:\Users\XPS13YUN\Downloads\dev\VSC\201-A2\look-myCsharp2 - Copy\PodCastWorld\obj\Debug\net10.0\PodCastWorld.pdb
+C:\Users\XPS13YUN\Downloads\dev\VSC\201-A2\look-myCsharp2 - Copy\PodCastWorld\obj\Debug\net10.0\PodCastWorld.genruntimeconfig.cache
+C:\Users\XPS13YUN\Downloads\dev\VSC\201-A2\look-myCsharp2 - Copy\PodCastWorld\obj\Debug\net10.0\ref\PodCastWorld.dll
